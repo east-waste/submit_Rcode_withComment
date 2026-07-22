@@ -1,0 +1,588 @@
+FormNo,Gender,age,agegroup3,RA06ur,Stateno,ms2g,educatn4g,econ3g,irsd_quint,ischprocedure,yearsIHD,yearsIHD3g,CVDcomorb,CVDcomorb3g,CVDriskf,CVDriskf3g,workst3g,hltcatnew,pcs,mcs
+197256736,Male,66,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,11.843943,>10 years,0,none,2,2 risk factors,employed,marginal,57.18462,49.44158
+1368553374,Male,80,80 years above,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,high,no,7.4168377,6-10 years,1,just 1,1,0-1 risk factors,pensioner,adequate,52.42858,52.9609
+1531731946,Male,74,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,the same,high,yes,22.193018,>10 years,0,none,3,3 or more,pensioner,adequate,50.1969,50.69039
+-827953271,Male,56,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,low,yes,1.7522244,0-5 years,0,none,2,2 risk factors,employed,adequate,42.99218000000001,49.70224
+-832516040,Male,72,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,high,yes,4.1013007,0-5 years,0,none,4,3 or more,pensioner,adequate,54.3869,29.45962
+1860580757,Male,70,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,lower to very low,high,yes,31.099247,>10 years,1,just 1,2,2 risk factors,pensioner,marginal,43.90225,47.89019
+885022689,Male,70,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,high,yes,2.0889802,0-5 years,1,just 1,2,2 risk factors,retired,adequate,56.24024,54.46057
+-799367679,Female,72,70 to 79 years,Urban Area,SA practice,unmarried,post grad/bachelor,the same,high,yes,1.8097193,0-5 years,0,none,2,2 risk factors,pensioner,adequate,52.73755000000001,50.89412
+14200872,Male,70,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,the same,high,yes,6.8145108,6-10 years,1,just 1,4,3 or more,retired,marginal,55.57603,49.57053
+-2140229440,Male,64,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,high,yes,9.0349073,6-10 years,1,just 1,2,2 risk factors,retired,adequate,29.16540000000001,57.84261
+-1976499774,Male,66,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,highest,no,9.9548254,6-10 years,0,none,2,2 risk factors,pensioner,marginal,50.91844,45.05848
+1550761566,Male,72,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,the same,highest,yes,4.1560574,0-5 years,0,none,3,3 or more,retired,marginal,28.51194,36.11505
+1423480370,Male,56,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,lower to very low,high,yes,1.577002,0-5 years,0,none,1,0-1 risk factors,employed,marginal,43.75601,42.76926
+2004878779,Male,64,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,lower to very low,middle,yes,2.3162217,0-5 years,0,none,3,3 or more,employed,adequate,42.49756,50.55802
+139504887,Female,80,80 years above,Urban Area,SA practice,unmarried,post grad/bachelor,the same,low,yes,16.07666,>10 years,0,none,4,3 or more,pensioner,adequate,28.40154,48.09995
+-970128386,Male,62,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,2.3983574,0-5 years,0,none,1,0-1 risk factors,retired,marginal,52.73755000000001,50.89412
+1868910802,Male,86,80 years above,Urban Area,SA practice,married,post grad/bachelor,the same,highest,yes,27.633127,>10 years,2,2 or more,1,0-1 risk factors,retired,adequate,51.70722000000001,52.22969
+-1612377296,Male,64,38 to 69 years,Rural Australia,SA practice,married,post grad/bachelor,the same,highest,yes,11.978097,>10 years,0,none,3,3 or more,employed,marginal,57.89832000000001,42.0126
+-455009125,Male,82,80 years above,Urban Area,SA practice,married,post grad/bachelor,the same,low,yes,31.822041,>10 years,5,2 or more,3,3 or more,pensioner,inadequate,30.02799,50.13303
+1027125718,Male,70,70 to 79 years,Rural Australia,QLD practice,unmarried,post grad/bachelor,very high to higher,low,yes,6.6420259,6-10 years,0,none,2,2 risk factors,retired,marginal,49.20582,41.88115
+-1520836022,Male,64,38 to 69 years,Rural Australia,SA practice,married,post grad/bachelor,the same,low,yes,.73100615,0-5 years,1,just 1,3,3 or more,retired,marginal,35.30900000000001,54.32994
+196506322,Male,66,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,9.5687885,6-10 years,1,just 1,1,0-1 risk factors,employed,marginal,39.58863,52.1544
+656934553,Male,74,70 to 79 years,Urban Area,QLD practice,married,post grad/bachelor,lower to very low,low,no,10.277892,6-10 years,0,none,3,3 or more,pensioner,marginal,28.50469,30.32537
+435038303,Female,66,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,the same,low,yes,2.5790555,0-5 years,0,none,3,3 or more,retired,marginal,55.14454000000001,48.64973
+1096711386,Male,56,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,highest,yes,3.4880219,0-5 years,1,just 1,1,0-1 risk factors,employed,marginal,54.49901000000001,53.47936
+-2073421066,Female,56,38 to 69 years,Urban Area,SA practice,unmarried,post grad/bachelor,very high to higher,high,yes,2.001369,0-5 years,2,2 or more,2,2 risk factors,employed,marginal,30.70984,52.24939999999999
+-1256906624,Male,66,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,low,yes,4.659822,0-5 years,1,just 1,3,3 or more,retired,adequate,24.93564000000001,58.36319
+97843522,Male,64,38 to 69 years,Urban Area,SA practice,unmarried,post grad/bachelor,the same,highest,yes,11.808351,>10 years,1,just 1,4,3 or more,pensioner,marginal,37.73232,32.36936
+-2109098082,Male,68,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,15.441479,>10 years,0,none,3,3 or more,pensioner,marginal,28.15734000000001,52.82222
+1299714189,Male,74,70 to 79 years,Rural Australia,SA practice,married,post grad/bachelor,very high to higher,middle,yes,9.7084188,6-10 years,0,none,4,3 or more,retired,inadequate,52.79377,53.57482
+144879913,Female,62,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,3.430527,0-5 years,0,none,3,3 or more,employed,adequate,56.74213,31.09632
+-1013825946,Male,74,70 to 79 years,Rural Australia,SA practice,married,post grad/bachelor,the same,high,yes,8.5338812,6-10 years,0,none,2,2 risk factors,retired,adequate,32.61149,58.20767
+-1607222921,Male,74,70 to 79 years,Urban Area,QLD practice,married,post grad/bachelor,the same,high,no,3.4250515,0-5 years,0,none,2,2 risk factors,pensioner,adequate,42.74513,55.09739
+418633273,Male,62,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,the same,high,yes,4.3696098,0-5 years,0,none,3,3 or more,pensioner,marginal,33.52687,40.97785
+1464387154,Male,68,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,middle,yes,3.4195757,0-5 years,0,none,2,2 risk factors,retired,marginal,32.57704,48.86351
+-1161762835,Male,90,80 years above,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,6.7488022,6-10 years,0,none,1,0-1 risk factors,retired,marginal,53.88142000000001,52.5459
+-1459666842,Male,66,38 to 69 years,Urban Area,SA practice,unmarried,post grad/bachelor,very high to higher,highest,yes,1.6646132,0-5 years,0,none,2,2 risk factors,pensioner,adequate,46.89150000000001,51.75044
+1047978041,Male,66,38 to 69 years,Rural Australia,QLD practice,married,post grad/bachelor,lower to very low,middle,yes,9.4510612,6-10 years,1,just 1,3,3 or more,retired,marginal,55.14454000000001,48.64973
+1922777859,Female,54,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,the same,low,yes,9.2594118,6-10 years,0,none,3,3 or more,employed,marginal,59.73221,29.0289
+-375048736,Male,62,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,high,yes,5.1389461,0-5 years,0,none,2,2 risk factors,retired,marginal,48.99247,54.47866
+347790059,Male,72,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,high,yes,18.154688,>10 years,1,just 1,3,3 or more,retired,adequate,55.16415000000001,51.52987
+-443895716,Male,78,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,no,16.632444,>10 years,0,none,2,2 risk factors,retired,adequate,45.82374,44.13732
+-602088437,Male,68,38 to 69 years,Rural Australia,SA practice,married,post grad/bachelor,the same,highest,yes,4.5530457,0-5 years,0,none,1,0-1 risk factors,pensioner,marginal,50.18554,39.80841
+453573811,Male,76,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,no,9.5906916,6-10 years,0,none,2,2 risk factors,pensioner,marginal,53.96816000000001,49.15239
+1971154050,Male,80,80 years above,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,21.634497,>10 years,4,2 or more,3,3 or more,pensioner,inadequate,30.06236000000001,51.34665
+-2064361011,Male,88,80 years above,Urban Area,SA practice,married,post grad/bachelor,the same,highest,yes,4.900753,0-5 years,2,2 or more,1,0-1 risk factors,retired,marginal,40.89693000000001,47.389
+-73465762,Male,78,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,high,no,19.09651,>10 years,1,just 1,3,3 or more,pensioner,adequate,52.79377,53.57482
+-1740980576,Male,68,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,the same,highest,no,2.787132,0-5 years,0,none,2,2 risk factors,employed,marginal,42.09516000000001,56.61827
+1129093410,Male,86,80 years above,Urban Area,SA practice,married,post grad/bachelor,very high to higher,low,no,11.104723,>10 years,0,none,2,2 risk factors,pensioner,inadequate,31.94214,52.63864
+-388420795,Male,74,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,highest,yes,11.331964,>10 years,1,just 1,2,2 risk factors,employed,adequate,55.16415000000001,51.52987
+-665643313,Male,74,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,low,no,12.131417,>10 years,0,none,3,3 or more,pensioner,inadequate,52.42858,52.9609
+-297746246,Male,72,70 to 79 years,Urban Area,SA practice,married,post grad/bachelor,very high to higher,high,yes,16.336756,>10 years,1,just 1,4,3 or more,retired,adequate,21.23048,50.63244
+1159900206,Male,56,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,the same,high,yes,11.132101,>10 years,0,none,2,2 risk factors,pensioner,adequate,36.21725,26.10658
+-1791002232,Male,66,38 to 69 years,Urban Area,SA practice,married,post grad/bachelor,the same,high,no,8.5968513,6-10 years,0,none,3,3 or more,pensioner,adequate,31.98233000000001,56.88005
+-672462898,Male,76,70 to 79 years,Urban Area,SA practice,unmarried,post grad/bachelor,very high to higher,highest,yes,22.067078,>10 years,0,none,4,3 or more,retired,marginal,50.0582,55.00585
+-658643768,Male,86,80 years above,Urban Area,SA practice,unmarried,post grad/bachelor,very high to higher,high,no,10.261465,6-10 years,0,none,2,2 risk factors,pensioner,adequate,32.57704,48.86351
+-536175605,Male,74,70 to 79 years,Rural Australia,QLD practice,married,post grad/bachelor,the same,middle,yes,2.5325119,0-5 years,0,none,1,0-1 risk factors,retired,adequate,54.44279,50.79866
+-1500422990,Male,62,38 to 69 years,Urban Area,QLD practice,married,post grad/bachelor,very high to higher,high,yes,5.6043806,0-5 years,2,2 or more,1,0-1 risk factors,employed,adequate,46.12335,56.34687
+746328423,Male,80,80 years above,Urban Area,SA practice,unmarried,post grad/bachelor,lower to very low,low,yes,12.057495,>10 years,0,none,1,0-1 risk factors,pensioner,adequate,52.89394,51.5585
+-1301511983,Female,80,80 years above,Urban Area,SA practice,unmarried,post grad/bachelor,the same,highest,yes,4.219028,0-5 years,0,none,0,0-1 risk factors,pensioner,marginal,43.06109000000001,32.70653
+106087443,Male,76,70 to 79 years,Urban Area,QLD practice,married,post grad/bachelor,lower to very low,middle,yes,15.882273,>10 years,2,2 or more,4,3 or more,retired,inadequate,26.90099000000001,53.39676
+88359764,Male,80,80 years above,Urban Area,QLD practice,married,post grad/bachelor,lower to very low,high,yes,1.0595483,0-5 years,0,none,4,3 or more,pensioner,adequate,49.65761000000001,52.52917
+-940607641,Male,86,80 years above,Urban Area,SA practice,married,post grad/bachelor,the same,highest,yes,13.749487,>10 years,2,2 or more,1,0-1 risk factors,pensioner,,51.15684,52.94697
+1177334040,Male,64,38 to 69 years,Rural Australia,QLD practice,married,post grad/bachelor,the same,middle,yes,9.6509237,6-10 years,5,2 or more,0,0-1 risk factors,pensioner,marginal,26.86518000000001,60.31476
+-33420174,Male,56,38 to 69 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,high,no,8.5995893,6-10 years,0,none,1,0-1 risk factors,employed,adequate,27.1756,45.52502
+-48809508,Male,76,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,7.0308008,6-10 years,0,none,2,2 risk factors,pensioner,marginal,51.05337,49.74316
+-1561919533,Male,66,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,no,18.365503,>10 years,0,none,2,2 risk factors,pensioner,inadequate,57.20431000000001,42.64968
+-136768342,Male,68,38 to 69 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,16.895277,>10 years,0,none,4,3 or more,pensioner,adequate,54.01799000000001,46.30357
+-949907215,Female,62,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,lower to very low,middle,no,7.2635183,6-10 years,0,none,2,2 risk factors,retired,adequate,44.10644000000001,45.88187
+-375717510,Male,50,38 to 69 years,Rural Australia,SA practice,unmarried,advdipl/dipl/certif/trade,lower to very low,low,yes,4.5475702,0-5 years,2,2 or more,2,2 risk factors,pensioner,inadequate,39.29119,20.45867000000001
+-248943584,Male,76,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,yes,21.574265,>10 years,0,none,2,2 risk factors,retired,marginal,36.12679,54.97906
+-1595399420,Male,74,70 to 79 years,Rural Australia,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,17.63176,>10 years,0,none,2,2 risk factors,pensioner,marginal,29.28251,54.7422
+-18028759,Male,80,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,45.560574,>10 years,1,just 1,2,2 risk factors,employed,marginal,35.09205,32.48921
+1324637105,Male,70,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,middle,yes,4.4955511,0-5 years,0,none,3,3 or more,retired,marginal,55.16415000000001,51.52987
+-71118886,Male,68,38 to 69 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,2.1930184,0-5 years,0,none,4,3 or more,employed,inadequate,53.87079,49.66599
+-533620452,Male,68,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,middle,yes,8.0574951,6-10 years,0,none,2,2 risk factors,pensioner,marginal,53.08216,54.97103
+158110759,Male,90,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,9.4373713,6-10 years,1,just 1,1,0-1 risk factors,pensioner,adequate,33.14004,40.36716
+1463520588,Male,62,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,5.6235456,0-5 years,0,none,2,2 risk factors,employed,marginal,44.45037000000001,55.00193
+-1865781217,Male,66,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,no,4.2080765,0-5 years,0,none,2,2 risk factors,pensioner,marginal,31.94214,52.63864
+437470267,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,6.1793294,6-10 years,1,just 1,3,3 or more,pensioner,adequate,46.95369,53.11917
+-929194471,Male,76,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,no,5.6208076,0-5 years,0,none,3,3 or more,pensioner,marginal,57.89694,43.87132
+2050852511,Female,68,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,middle,no,5.8590007,0-5 years,0,none,1,0-1 risk factors,retired,marginal,48.31780000000001,51.17419
+228435783,Male,68,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,low,yes,19.895962,>10 years,4,2 or more,2,2 risk factors,pensioner,inadequate,11.71936,66.95845
+-699937197,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,9.5961666,6-10 years,0,none,1,0-1 risk factors,pensioner,marginal,54.91089,51.52002
+-1433360213,Male,72,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,16.057495,>10 years,3,2 or more,4,3 or more,pensioner,adequate,29.20118,30.59943
+1489540706,Male,38,38 to 69 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,lower to very low,low,yes,5.2594113,0-5 years,0,none,4,3 or more,pensioner,marginal,19.00075,35.74652
+375056137,Female,74,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,25.073238,>10 years,0,none,2,2 risk factors,pensioner,marginal,48.97303,54.8293
+-1914977700,Male,72,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,14.154689,>10 years,0,none,3,3 or more,pensioner,adequate,53.45891,51.62533
+2042809798,Male,68,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,17.713894,>10 years,0,none,1,0-1 risk factors,pensioner,marginal,54.73935,47.03478
+199242621,Male,78,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,low,no,20.969198,>10 years,0,none,0,0-1 risk factors,pensioner,adequate,55.17460000000001,42.10398
+1785902155,Male,72,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,middle,yes,10.902122,6-10 years,0,none,4,3 or more,pensioner,adequate,55.57603,49.57053
+1317517110,Female,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,no,1.1334702,0-5 years,0,none,2,2 risk factors,pensioner,marginal,35.19852,29.73878
+-324517383,Male,54,38 to 69 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,very high to higher,middle,no,7.9178643,6-10 years,2,2 or more,3,3 or more,pensioner,marginal,23.96095,44.63435
+1413864254,Male,74,70 to 79 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,lower to very low,high,yes,10.020534,6-10 years,1,just 1,3,3 or more,pensioner,adequate,34.63082,45.28756
+361554271,Male,70,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,1.8562628,0-5 years,0,none,1,0-1 risk factors,pensioner,marginal,55.16415000000001,51.52987
+-1035033211,Male,72,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,14.513347,>10 years,0,none,3,3 or more,retired,adequate,41.93456000000001,48.43537
+2088527187,Male,80,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,2.8035593,0-5 years,1,just 1,4,3 or more,pensioner,adequate,51.76344,54.91039
+875212019,Male,76,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,13.765914,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,37.60489,37.35283
+-679396279,Male,78,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,middle,no,4.5119781,0-5 years,2,2 or more,3,3 or more,pensioner,inadequate,19.24153,54.10837
+-1413149402,Male,66,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,9.7056808,6-10 years,3,2 or more,3,3 or more,pensioner,marginal,39.43461000000001,53.72397
+-301260743,Male,78,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,16.939083,>10 years,0,none,3,3 or more,pensioner,marginal,47.74285,48.36974
+1863800336,Female,68,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,middle,yes,2.880219,0-5 years,0,none,3,3 or more,pensioner,adequate,42.3973,48.49774
+-1998396233,Female,76,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,8.8295689,6-10 years,1,just 1,1,0-1 risk factors,retired,inadequate,50.11674,51.09294
+498730222,Female,78,70 to 79 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,low,yes,1.7494867,0-5 years,1,just 1,2,2 risk factors,pensioner,adequate,48.34682000000001,49.98574
+-532374545,Male,68,38 to 69 years,Rural Australia,SA practice,unmarried,advdipl/dipl/certif/trade,lower to very low,high,yes,6.7104721,6-10 years,0,none,3,3 or more,pensioner,adequate,45.71496000000001,50.46122
+619473976,Male,70,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,lower to very low,low,yes,3.8822725,0-5 years,2,2 or more,4,3 or more,pensioner,marginal,42.38829000000001,53.01133
+-1847589390,Female,78,70 to 79 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,7.4880219,6-10 years,2,2 or more,2,2 risk factors,retired,marginal,27.57269,42.72353
+-1287187987,Male,56,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,lower to very low,low,yes,17.05681,>10 years,0,none,2,2 risk factors,employed,adequate,49.77256000000001,48.91544
+-1294747023,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,4.7364817,0-5 years,0,none,1,0-1 risk factors,pensioner,adequate,49.57525,46.04342
+-1516181502,Male,64,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,6.6009583,6-10 years,0,none,4,3 or more,employed,marginal,51.13522,51.09702
+-604747532,Male,76,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,2.3545518,0-5 years,1,just 1,1,0-1 risk factors,pensioner,marginal,24.0377,48.10823
+1385267274,Male,66,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,11.296372,>10 years,1,just 1,2,2 risk factors,employed,adequate,29.69439000000001,52.78286
+123097004,Female,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,4.8761125,0-5 years,0,none,1,0-1 risk factors,pensioner,marginal,25.12073,49.55748
+-2095199108,Male,78,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,yes,30.902122,>10 years,3,2 or more,2,2 risk factors,retired,marginal,47.40457000000001,52.709
+1102138079,Male,78,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,20.687201,>10 years,0,none,1,0-1 risk factors,pensioner,adequate,52.18717,51.6114
+-542170270,Male,76,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,10.872005,6-10 years,0,none,1,0-1 risk factors,pensioner,marginal,27.96941,55.46513
+225532044,Male,84,80 years above,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,very high to higher,low,yes,11.507187,>10 years,1,just 1,1,0-1 risk factors,pensioner,marginal,36.98919000000001,56.84121
+-1672195732,Male,78,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,2.349076,0-5 years,2,2 or more,5,3 or more,pensioner,marginal,44.18196,51.17122
+854829032,Male,58,38 to 69 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,highest,yes,4.1478438,0-5 years,0,none,2,2 risk factors,employed,marginal,56.48287000000001,51.59051
+-1850347467,Male,90,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,low,no,4.6379194,0-5 years,0,none,1,0-1 risk factors,pensioner,inadequate,26.99043,53.80084
+-1184461158,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,8.5694733,6-10 years,1,just 1,2,2 risk factors,pensioner,marginal,52.42858,52.9609
+1232948647,Male,64,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,6.3846679,6-10 years,0,none,1,0-1 risk factors,retired,marginal,52.73755000000001,50.89412
+-974663648,Male,76,70 to 79 years,Rural Australia,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,low,no,23.422314,>10 years,0,none,1,0-1 risk factors,pensioner,marginal,49.52828,26.02914
+-504169872,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,low,yes,6.2121835,6-10 years,0,none,2,2 risk factors,pensioner,marginal,38.76607,33.7643
+63539502,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,middle,yes,4.6023273,0-5 years,1,just 1,2,2 risk factors,pensioner,inadequate,34.05668,36.75739
+1872802263,Male,62,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,7.2032852,6-10 years,0,none,2,2 risk factors,employed,adequate,56.08731,42.83133
+613402713,Female,76,70 to 79 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,no,3.3675566,0-5 years,0,none,4,3 or more,retired,marginal,44.22614,53.77422
+2141065167,Male,68,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,9.5249825,6-10 years,1,just 1,2,2 risk factors,pensioner,adequate,44.26864000000001,53.70361
+15586965,Male,68,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,8.7118416,6-10 years,1,just 1,1,0-1 risk factors,pensioner,marginal,21.28792,53.02341
+2040045574,Male,68,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,9.6810408,6-10 years,0,none,1,0-1 risk factors,pensioner,marginal,55.16415000000001,51.52987
+-1424106604,Male,48,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,2.3353868,0-5 years,0,none,3,3 or more,employed,marginal,53.45891,51.62533
+-2098602649,Male,62,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,no,6.1273103,6-10 years,0,none,1,0-1 risk factors,retired,marginal,54.87537,30.71643
+-1606400562,Male,58,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,4.4928131,0-5 years,1,just 1,3,3 or more,employed,inadequate,45.96342,43.82635
+32496912,Male,72,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,8.9774132,6-10 years,0,none,1,0-1 risk factors,pensioner,marginal,43.28381,48.18467
+-1780469600,Male,72,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,21.664614,>10 years,0,none,3,3 or more,pensioner,marginal,43.75939,56.17655
+-1602326231,Male,64,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,no,19.904175,>10 years,0,none,2,2 risk factors,employed,marginal,55.16415000000001,51.52987
+-1434626627,Male,88,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,very high to higher,high,yes,29.144423,>10 years,3,2 or more,2,2 risk factors,retired,marginal,28.36895000000001,55.07324
+-1989155544,Male,78,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,18.76523,>10 years,0,none,1,0-1 risk factors,employed,inadequate,54.85467000000001,48.83932
+-964591759,Female,72,70 to 79 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,highest,yes,5.6372347,0-5 years,0,none,4,3 or more,pensioner,marginal,26.24136,52.53242
+-469836453,Male,74,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,middle,no,4.3477073,0-5 years,0,none,2,2 risk factors,pensioner,marginal,34.71941,48.84538
+1560828157,Male,72,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,34.516087,>10 years,0,none,4,3 or more,pensioner,marginal,51.13522,51.09702
+-692217350,Male,60,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,7.6796713,6-10 years,1,just 1,3,3 or more,employed,marginal,51.14852000000001,45.63081
+174047551,Male,80,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,5.5003424,0-5 years,0,none,2,2 risk factors,retired,marginal,46.2569,55.90969
+-672606181,Female,80,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,no,3.4579055,0-5 years,1,just 1,3,3 or more,pensioner,,31.06551,49.02305
+-1790830653,Male,78,70 to 79 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,7.8384666,6-10 years,0,none,3,3 or more,pensioner,adequate,51.64082000000001,54.67719
+1874023031,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,29.741274,>10 years,2,2 or more,1,0-1 risk factors,pensioner,marginal,40.02275,53.59534
+1690339645,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,14.746064,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,50.0582,55.00585
+-2143963989,Male,46,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,2.0068445,0-5 years,0,none,2,2 risk factors,employed,inadequate,53.02732,53.45891
+-1215899606,Male,60,38 to 69 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,19.720739,>10 years,0,none,2,2 risk factors,employed,marginal,38.3263,54.70819
+-1139193904,Male,78,70 to 79 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,low,no,1.8863792,0-5 years,1,just 1,1,0-1 risk factors,retired,adequate,52.00966,49.238
+-2081385394,Male,90,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,low,no,16.64887,>10 years,1,just 1,2,2 risk factors,pensioner,marginal,56.11712,29.87114
+445524413,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,8.9746752,6-10 years,0,none,3,3 or more,pensioner,marginal,27.83827,33.30076
+1514016294,Male,82,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,no,11.893224,>10 years,2,2 or more,2,2 risk factors,pensioner,marginal,42.49416,43.26034
+89716332,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,8.9253931,6-10 years,0,none,2,2 risk factors,pensioner,adequate,49.92177,48.12691
+-1293902525,Male,62,38 to 69 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,lower to very low,highest,yes,.9445585,0-5 years,0,none,4,3 or more,pensioner,marginal,28.16098,48.93285
+-1737377695,Male,78,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,2.5790555,0-5 years,0,none,1,0-1 risk factors,pensioner,inadequate,39.38040000000001,55.2008
+844488378,Male,62,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,lower to very low,low,yes,2.9048598,0-5 years,0,none,4,3 or more,pensioner,marginal,30.67076,55.86795
+-914162762,Male,72,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,yes,27.863108,>10 years,3,2 or more,4,3 or more,retired,marginal,30.30099000000001,54.74628
+596130317,Male,76,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,5.6618752,0-5 years,0,none,2,2 risk factors,pensioner,adequate,51.13522,51.09702
+-288574826,Male,74,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,14.138262,>10 years,0,none,2,2 risk factors,pensioner,marginal,55.16415000000001,51.52987
+-578657264,Male,80,80 years above,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,4.0985627,0-5 years,0,none,2,2 risk factors,pensioner,inadequate,44.13416000000001,49.75378
+-534775079,Male,70,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,.27926078,0-5 years,1,just 1,2,2 risk factors,employed,marginal,41.08370000000001,49.50952
+-997492997,Male,64,38 to 69 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,lower to very low,low,yes,21.785078,>10 years,0,none,4,3 or more,pensioner,marginal,18.53569,52.83055
+820421109,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,high,yes,21.804243,>10 years,4,2 or more,1,0-1 risk factors,retired,adequate,18.2389,54.46359
+-944793188,Male,72,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,no,8.4271049,6-10 years,1,just 1,2,2 risk factors,pensioner,marginal,39.59982000000001,37.84173
+-762843520,Male,68,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,9.4401093,6-10 years,1,just 1,2,2 risk factors,employed,adequate,58.19014,47.22879
+791908884,Male,44,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,.86516082,0-5 years,0,none,3,3 or more,employed,adequate,34.93085000000001,42.77806
+1829297883,Male,70,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,1.9356605,0-5 years,0,none,1,0-1 risk factors,pensioner,marginal,47.45273,40.5493
+-876201007,Male,78,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,no,1.6591376,0-5 years,1,just 1,4,3 or more,pensioner,marginal,22.25178,52.80268
+-682147585,Male,80,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,middle,yes,9.9712524,6-10 years,3,2 or more,3,3 or more,pensioner,marginal,46.54067000000001,54.38757
+1308970098,Male,68,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,low,yes,22.253252,>10 years,0,none,4,3 or more,employed,marginal,41.61691,46.95163
+1262651485,Male,60,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,highest,yes,7.6112251,6-10 years,1,just 1,2,2 risk factors,employed,adequate,56.48287000000001,51.59051
+271595199,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,middle,yes,5.7412729,0-5 years,1,just 1,2,2 risk factors,pensioner,inadequate,36.35096,48.84197
+-1252760052,Male,68,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,7.1676931,6-10 years,1,just 1,3,3 or more,pensioner,adequate,46.32156000000001,52.42464
+-1691166004,Female,58,38 to 69 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,lower to very low,high,yes,8.8240929,6-10 years,0,none,4,3 or more,pensioner,marginal,18.83254,54.21014
+-170553785,Male,80,80 years above,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,no,2.6310747,0-5 years,0,none,2,2 risk factors,retired,marginal,42.74513,55.09739
+1615439088,Male,82,80 years above,Rural Australia,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,middle,yes,5.7741275,0-5 years,2,2 or more,1,0-1 risk factors,pensioner,adequate,50.71606000000001,35.08828
+1206977269,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,3.983573,0-5 years,0,none,1,0-1 risk factors,pensioner,marginal,54.44279,50.79866
+-227597371,Male,62,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,no,21.615332,>10 years,0,none,2,2 risk factors,retired,adequate,54.44279,50.79866
+-1228507876,Male,70,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,no,1.54141,0-5 years,0,none,2,2 risk factors,pensioner,adequate,53.21628000000001,54.49539
+-1740018328,Male,62,38 to 69 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,very high to higher,highest,yes,1.7275839,0-5 years,0,none,2,2 risk factors,employed,inadequate,55.57603,49.57053
+-283343133,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,4.219028,0-5 years,1,just 1,3,3 or more,employed,marginal,50.00198,52.32515
+-317463184,Male,82,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,25.938398,>10 years,0,none,2,2 risk factors,retired,adequate,22.21235,49.78239
+1517323680,Male,78,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,4.2272415,0-5 years,1,just 1,1,0-1 risk factors,pensioner,inadequate,44.50659,57.68263
+-1759601273,Female,68,38 to 69 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,middle,no,3.5838466,0-5 years,0,none,0,0-1 risk factors,retired,marginal,54.49901000000001,53.47936
+-1171651743,Male,66,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,4.884326,0-5 years,0,none,1,0-1 risk factors,retired,marginal,44.89777,53.20407
+1418326863,Male,78,70 to 79 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,lower to very low,low,yes,2.0971937,0-5 years,0,none,3,3 or more,pensioner,adequate,54.85467000000001,48.83932
+661367399,Male,70,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,4.1095142,0-5 years,0,none,1,0-1 risk factors,pensioner,adequate,54.49901000000001,53.47936
+2145348903,Male,74,70 to 79 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,13.434634,>10 years,0,none,1,0-1 risk factors,pensioner,marginal,55.57603,49.57053
+-1898231502,Male,78,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,2.9404519,0-5 years,1,just 1,1,0-1 risk factors,pensioner,marginal,46.9867,50.47515
+-1548748925,Female,72,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,9.8836412,6-10 years,1,just 1,2,2 risk factors,pensioner,adequate,21.64606,61.6217
+-159343544,Female,86,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,highest,no,6.5927448,6-10 years,0,none,2,2 risk factors,retired,adequate,20.43760999999999,57.85248
+-1930032431,Male,76,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,13.760438,>10 years,0,none,4,3 or more,retired,marginal,44.48451,53.99483
+-2125661522,Male,78,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,7.7043123,6-10 years,0,none,2,2 risk factors,retired,adequate,53.30302,51.10188
+-1930903408,Male,80,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,15.466119,>10 years,0,none,2,2 risk factors,pensioner,marginal,40.04121000000001,55.68739
+231093317,Male,74,70 to 79 years,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,lower to very low,low,no,10.65024,6-10 years,0,none,3,3 or more,pensioner,adequate,54.49901000000001,53.47936
+-1216099384,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,no,2.0698152,0-5 years,3,2 or more,3,3 or more,retired,marginal,50.83567,31.3415
+984923362,Male,72,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,17.133471,>10 years,3,2 or more,2,2 risk factors,pensioner,inadequate,55.16415000000001,51.52987
+904608081,Male,78,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,lower to very low,middle,yes,8.884326,6-10 years,1,just 1,3,3 or more,pensioner,inadequate,24.71722000000001,48.75928
+518994968,Female,66,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,5.2758384,0-5 years,0,none,2,2 risk factors,pensioner,adequate,50.95113000000001,50.05417
+560577379,Male,68,38 to 69 years,Rural Australia,QLD practice,unmarried,advdipl/dipl/certif/trade,lower to very low,middle,yes,25.722109,>10 years,0,none,1,0-1 risk factors,pensioner,adequate,56.48287000000001,51.59051
+1801457958,Male,68,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,7.2635183,6-10 years,0,none,2,2 risk factors,pensioner,marginal,29.11369000000001,52.65059
+-1172105528,Male,80,80 years above,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,30.01232,>10 years,0,none,2,2 risk factors,retired,marginal,51.14852000000001,45.63081
+-354119922,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,22.915812,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,52.73755000000001,50.89412
+-483315080,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,3.8302534,0-5 years,0,none,1,0-1 risk factors,pensioner,inadequate,43.27177,51.90584
+-1700372072,Male,68,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,lower to very low,high,no,10.464066,6-10 years,0,none,2,2 risk factors,pensioner,marginal,36.083,35.10667
+1252870005,Male,58,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,lower to very low,low,no,5.0869269,0-5 years,2,2 or more,2,2 risk factors,employed,adequate,48.74153,47.8752
+-897242503,Male,80,80 years above,Rural Australia,SA practice,unmarried,advdipl/dipl/certif/trade,the same,highest,yes,18.68857,>10 years,0,none,2,2 risk factors,pensioner,marginal,47.02307,48.14682
+-682440611,Male,82,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,25.943874,>10 years,3,2 or more,2,2 risk factors,pensioner,marginal,17.69768,43.36497
+1436073700,Male,82,80 years above,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,very high to higher,low,yes,11.501711,>10 years,1,just 1,3,3 or more,retired,adequate,50.80779,46.08833
+1006600063,Male,72,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,12.616016,>10 years,0,none,3,3 or more,retired,marginal,43.46649,55.82859999999999
+1275456251,Male,80,80 years above,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,6.7296371,6-10 years,0,none,1,0-1 risk factors,employed,marginal,44.86225,53.04259
+-1207014722,Male,88,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,very high to higher,high,yes,18.748802,>10 years,0,none,1,0-1 risk factors,retired,adequate,29.29007,59.23456
+946223987,Male,78,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,15.901438,>10 years,4,2 or more,2,2 risk factors,pensioner,adequate,46.44163,40.69528
+-1993003866,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,4.1451063,0-5 years,1,just 1,2,2 risk factors,retired,marginal,55.16415000000001,51.52987
+57459105,Male,64,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,3.4113622,0-5 years,1,just 1,3,3 or more,pensioner,marginal,34.87505,56.38669
+892158449,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,8.8459959,6-10 years,0,none,2,2 risk factors,employed,adequate,50.72334,53.05636
+1810299455,Male,64,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,4.8295689,0-5 years,1,just 1,3,3 or more,retired,marginal,46.61256,51.26965
+208666720,Male,70,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,19.901438,>10 years,1,just 1,2,2 risk factors,pensioner,inadequate,37.37499,51.73139
+937188891,Male,70,70 to 79 years,Rural Australia,SA practice,unmarried,advdipl/dipl/certif/trade,lower to very low,low,yes,.18069816,0-5 years,1,just 1,2,2 risk factors,employed,inadequate,24.63543,59.28856
+1140539683,Male,72,70 to 79 years,Rural Australia,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,middle,yes,8.1779604,6-10 years,0,none,1,0-1 risk factors,pensioner,adequate,54.49901000000001,53.47936
+1070646874,Male,74,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,4.418891,0-5 years,0,none,2,2 risk factors,pensioner,adequate,50.72334,53.05636
+556808805,Male,82,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,highest,yes,9.9548254,6-10 years,0,none,1,0-1 risk factors,pensioner,,58.50687000000001,35.36199
+-2077602489,Male,66,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,9.6700888,6-10 years,0,none,2,2 risk factors,employed,adequate,54.49901000000001,53.47936
+1134270963,Male,62,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,middle,no,8.9691992,6-10 years,0,none,1,0-1 risk factors,pensioner,marginal,35.75435,55.61534
+-1217332105,Male,68,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,low,no,16.969198,>10 years,0,none,3,3 or more,pensioner,marginal,29.52217,48.26834
+1332211857,Male,72,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,6.8145108,6-10 years,0,none,2,2 risk factors,employed,inadequate,54.33321,31.55407
+-284763959,Female,82,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,9.771389,6-10 years,1,just 1,2,2 risk factors,pensioner,adequate,18.94214,62.2117
+-223865000,Female,66,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,7.4880219,6-10 years,1,just 1,3,3 or more,pensioner,marginal,53.54336,44.6573
+-845408966,Male,72,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,17.579741,>10 years,0,none,3,3 or more,pensioner,adequate,23.15796,47.3638
+-793333482,Male,74,70 to 79 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,very high to higher,low,yes,8.7611227,6-10 years,1,just 1,3,3 or more,retired,adequate,52.73755000000001,50.89412
+-583926138,Male,72,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,7.8138261,6-10 years,0,none,4,3 or more,retired,marginal,55.55642,46.69038999999999
+-1353925185,Male,70,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,22.915812,>10 years,0,none,1,0-1 risk factors,pensioner,marginal,55.16415000000001,51.52987
+809021782,Male,68,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,yes,3.2032855,0-5 years,1,just 1,4,3 or more,employed,adequate,55.16415000000001,51.52987
+-1951186253,Male,60,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,3.1321013,0-5 years,0,none,3,3 or more,employed,adequate,30.1431,30.02711
+-1396621849,Male,64,38 to 69 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,7.1813827,6-10 years,1,just 1,3,3 or more,employed,adequate,55.67462,43.19965000000001
+-135647531,Male,78,70 to 79 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,middle,no,29.727583,>10 years,0,none,1,0-1 risk factors,pensioner,marginal,36.56454,51.93551
+1257215061,Male,80,80 years above,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,16.728268,>10 years,0,none,4,3 or more,pensioner,marginal,52.85231,49.66191
+-498752750,Male,60,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,5.8069816,0-5 years,0,none,3,3 or more,employed,marginal,25.69531,28.78253
+1047131234,Male,66,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,lower to very low,low,yes,16.711842,>10 years,0,none,3,3 or more,pensioner,inadequate,30.97443,56.33377
+848115721,Male,72,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,2.5790555,0-5 years,0,none,2,2 risk factors,pensioner,marginal,26.2869,53.77685
+-1890200064,Male,64,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,high,no,1.0841889,0-5 years,1,just 1,3,3 or more,employed,marginal,47.78555,52.77156
+298311076,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,low,yes,5.0212183,0-5 years,1,just 1,3,3 or more,pensioner,adequate,38.90129,50.52135
+324351819,Male,80,80 years above,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,5.2895279,0-5 years,3,2 or more,2,2 risk factors,pensioner,adequate,47.89686,47.43347
+513696196,Male,58,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,1.9794661,0-5 years,0,none,3,3 or more,retired,marginal,42.33345,51.49921
+-1252374901,Male,66,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,high,yes,11.865846,>10 years,0,none,3,3 or more,employed,marginal,44.72103,51.9496
+862313136,Male,58,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,middle,yes,7.6002736,6-10 years,1,just 1,4,3 or more,pensioner,marginal,36.99468,45.1649
+-1005827553,Female,80,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,high,yes,.8898015,0-5 years,0,none,2,2 risk factors,pensioner,adequate,36.57767,55.03491
+502860074,Male,62,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,lower to very low,high,yes,10.395619,6-10 years,1,just 1,3,3 or more,pensioner,marginal,36.63991,53.50863
+1428851468,Male,74,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,middle,yes,4.5201917,0-5 years,0,none,3,3 or more,pensioner,marginal,33.91342,46.39851
+-484866801,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,24.106775,>10 years,0,none,2,2 risk factors,pensioner,adequate,48.36671000000001,43.33342
+-1558077903,Male,70,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,no,5.8480492,0-5 years,5,2 or more,2,2 risk factors,pensioner,marginal,26.97432000000001,57.29639
+-1556474107,Male,72,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,26.740589,>10 years,1,just 1,2,2 risk factors,pensioner,marginal,21.32325,52.34958
+-745535200,Male,80,80 years above,Urban Area,SA practice,unmarried,advdipl/dipl/certif/trade,the same,low,yes,10.099932,6-10 years,0,none,2,2 risk factors,pensioner,inadequate,54.89574,47.69916
+1877587585,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,10.628337,6-10 years,0,none,3,3 or more,retired,marginal,38.08671,49.11251
+-460071013,Male,64,38 to 69 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,high,yes,7.2224503,6-10 years,0,none,2,2 risk factors,pensioner,inadequate,37.16428000000001,49.22145
+1593710764,Female,64,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,10.617385,6-10 years,1,just 1,3,3 or more,employed,marginal,44.50659,57.68263
+-2138712376,Male,76,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,low,yes,13.905544,>10 years,2,2 or more,1,0-1 risk factors,employed,marginal,42.71204,39.22279
+-67773875,Male,80,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,7.4277892,6-10 years,2,2 or more,3,3 or more,pensioner,marginal,54.49901000000001,53.47936
+-1663358364,Male,78,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,17.675564,>10 years,0,none,3,3 or more,pensioner,marginal,53.96816000000001,49.15239
+326566690,Male,62,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,6.198494,6-10 years,1,just 1,3,3 or more,employed,marginal,55.57603,49.57053
+-147056389,Female,56,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,no,7.0499659,6-10 years,0,none,3,3 or more,employed,adequate,34.12201,54.18945
+-691567481,Male,78,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,high,no,16.095825,>10 years,0,none,3,3 or more,retired,marginal,50.64098,46.57061
+235457728,Male,70,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,6.6064339,6-10 years,0,none,2,2 risk factors,pensioner,marginal,43.89999,55.71921
+1147764639,Female,62,38 to 69 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,7.2717319,6-10 years,0,none,3,3 or more,pensioner,adequate,59.05098,26.96207
+1693659728,Male,76,70 to 79 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,11.397673,>10 years,1,just 1,3,3 or more,pensioner,marginal,51.16813000000001,48.51095
+-1988944546,Male,68,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,no,11.846681,>10 years,4,2 or more,3,3 or more,pensioner,marginal,28.47469000000001,58.40513
+-1525823451,Male,84,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,no,6.7159481,6-10 years,1,just 1,2,2 risk factors,retired,adequate,31.30277000000001,52.97491
+112674832,Male,72,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,.60506505,0-5 years,0,none,2,2 risk factors,pensioner,marginal,55.16415000000001,51.52987
+-375757196,Male,72,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,highest,yes,9.4674883,6-10 years,0,none,2,2 risk factors,pensioner,marginal,56.90538,52.51108
+-477548204,Male,88,80 years above,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,highest,yes,10.220397,6-10 years,1,just 1,1,0-1 risk factors,pensioner,,29.30664,32.73227
+1483403158,Male,68,38 to 69 years,Rural Australia,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,2.2943189,0-5 years,1,just 1,3,3 or more,pensioner,adequate,36.82467,55.34449
+-313321721,Male,60,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,the same,high,yes,4.4052019,0-5 years,0,none,2,2 risk factors,pensioner,adequate,50.12539,40.85156
+366165592,Male,74,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,high,yes,15.340178,>10 years,1,just 1,1,0-1 risk factors,retired,marginal,40.55433000000001,54.21696
+-2108871032,Male,60,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,lower to very low,middle,yes,.68446273,0-5 years,1,just 1,2,2 risk factors,employed,adequate,24.46101,56.71692
+-1134648934,Male,50,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,high,yes,1.2922655,0-5 years,0,none,1,0-1 risk factors,employed,marginal,54.85467000000001,48.83932
+879120050,Male,72,70 to 79 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,the same,low,yes,14.877481,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,36.82467,55.34449
+-1212141188,Male,76,70 to 79 years,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,lower to very low,low,yes,21.724846,>10 years,0,none,0,0-1 risk factors,retired,inadequate,50.92060000000001,30.52247
+-417732419,Male,78,70 to 79 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,very high to higher,low,yes,14.373716,>10 years,2,2 or more,3,3 or more,retired,marginal,54.44279,50.79866
+-1050854024,Male,74,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,low,yes,17.169062,>10 years,0,none,3,3 or more,employed,adequate,55.14454000000001,48.64973
+930200792,Male,62,38 to 69 years,Rural Australia,SA practice,married,advdipl/dipl/certif/trade,very high to higher,high,yes,20.668036,>10 years,1,just 1,3,3 or more,retired,marginal,47.23299,34.64636
+2139060420,Male,80,80 years above,Urban Area,QLD practice,unmarried,advdipl/dipl/certif/trade,the same,highest,yes,4.0821357,0-5 years,1,just 1,3,3 or more,pensioner,marginal,36.21725,26.10658
+1865744526,Male,74,70 to 79 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,high,yes,6.2121835,6-10 years,0,none,2,2 risk factors,retired,marginal,50.52862,49.1336
+-44736584,Male,62,38 to 69 years,Urban Area,QLD practice,married,advdipl/dipl/certif/trade,the same,middle,yes,4.443532,0-5 years,0,none,1,0-1 risk factors,employed,marginal,52.31025,21.90916000000001
+-1879543963,Male,60,38 to 69 years,Urban Area,SA practice,married,advdipl/dipl/certif/trade,very high to higher,highest,no,5.1964407,0-5 years,0,none,2,2 risk factors,employed,adequate,55.16415000000001,51.52987
+-709098721,Female,66,38 to 69 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,highest,yes,3.430527,0-5 years,0,none,3,3 or more,pensioner,marginal,37.53644,29.94529
+-627787438,Male,82,80 years above,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,low,no,2.7241616,0-5 years,2,2 or more,1,0-1 risk factors,pensioner,marginal,48.57496,48.01315
+-1108738150,Male,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,highest,yes,18.803558,>10 years,2,2 or more,3,3 or more,pensioner,adequate,38.38252,57.38889
+1272525238,Male,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,no,16.807667,>10 years,0,none,3,3 or more,pensioner,adequate,48.93625,51.79796
+-754350143,Male,82,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,yes,18.45859,>10 years,0,none,2,2 risk factors,retired,inadequate,41.20218000000001,53.80904
+816529964,Female,68,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,1.1389459,0-5 years,1,just 1,3,3 or more,employed,adequate,54.49901000000001,53.47936
+2074772476,Female,74,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,highest,yes,3.8220396,0-5 years,0,none,2,2 risk factors,pensioner,adequate,55.16415000000001,51.52987
+-781010742,Male,78,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,low,no,4.4079399,0-5 years,0,none,2,2 risk factors,pensioner,,38.11445000000001,38.24299
+-563303680,Female,60,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,high,no,4.7529092,0-5 years,0,none,2,2 risk factors,pensioner,marginal,52.84046,51.00156
+-1630871421,Female,74,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,middle,no,4.9445586,0-5 years,0,none,1,0-1 risk factors,retired,marginal,33.85218,41.62178
+-1539705361,Male,64,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,low,yes,7.6522927,6-10 years,0,none,1,0-1 risk factors,pensioner,inadequate,29.64193,42.16678
+-1004626388,Female,88,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,high,no,12.711842,>10 years,0,none,2,2 risk factors,retired,marginal,37.78838,48.60093
+-673623757,Male,52,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,yes,11.134839,>10 years,1,just 1,2,2 risk factors,employed,inadequate,52.73755000000001,50.89412
+1901576714,Male,66,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,middle,yes,8.5776863,6-10 years,0,none,3,3 or more,pensioner,adequate,54.92152,54.39993
+1204333187,Female,76,70 to 79 years,Rural Australia,SA practice,unmarried,seniorsec/secondary,lower to very low,highest,yes,1.6290212,0-5 years,0,none,3,3 or more,pensioner,inadequate,51.65133,30.89065
+1728736965,Male,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,21.746748,>10 years,1,just 1,1,0-1 risk factors,pensioner,marginal,40.45309,53.72805
+-502536823,Female,76,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,high,no,3.5455167,0-5 years,1,just 1,3,3 or more,pensioner,marginal,54.49901000000001,53.47936
+-56990252,Female,64,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,yes,3.9589322,0-5 years,0,none,1,0-1 risk factors,employed,marginal,53.96816000000001,49.15239
+559894515,Female,72,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,middle,no,13.741273,>10 years,2,2 or more,2,2 risk factors,pensioner,marginal,43.67703,49.6908
+-1227140493,Female,78,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,10.12731,6-10 years,4,2 or more,2,2 risk factors,pensioner,adequate,34.05326,42.31039
+-1968438591,Male,84,80 years above,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,highest,no,5.9575634,0-5 years,0,none,2,2 risk factors,pensioner,inadequate,45.19109,49.84299
+-1199669927,Male,68,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,very high to higher,low,yes,7.6413417,6-10 years,0,none,3,3 or more,pensioner,marginal,53.77765,52.74815
+-788535385,Male,54,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,high,yes,6.7296371,6-10 years,0,none,2,2 risk factors,employed,adequate,39.47659,53.23754
+-1670657355,Female,80,80 years above,Rural Australia,QLD practice,unmarried,seniorsec/secondary,lower to very low,middle,yes,8.4736481,6-10 years,0,none,2,2 risk factors,pensioner,adequate,24.77704,29.04312
+1084405944,Female,80,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,middle,yes,4.8268309,0-5 years,0,none,3,3 or more,pensioner,marginal,17.83572,52.87202
+-44963487,Female,72,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,middle,yes,27.739904,>10 years,0,none,1,0-1 risk factors,pensioner,marginal,54.96943,47.60711
+-467006502,Male,72,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,very high to higher,low,yes,2.7789185,0-5 years,1,just 1,2,2 risk factors,retired,inadequate,55.8659,49.38094
+-1546177135,Male,52,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,yes,10.63655,6-10 years,0,none,3,3 or more,employed,marginal,17.52884,50.47241
+1082415777,Male,56,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,yes,12.153319,>10 years,0,none,1,0-1 risk factors,employed,marginal,56.89475,49.63117
+-1827071965,Male,54,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,5.7494864,0-5 years,0,none,3,3 or more,retired,adequate,46.97231,57.17821
+128537625,Male,76,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,lower to very low,high,yes,15.468857,>10 years,2,2 or more,4,3 or more,pensioner,marginal,30.42617,48.49776
+876063934,Female,76,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,very high to higher,high,yes,6.8473649,6-10 years,0,none,3,3 or more,retired,adequate,49.36530000000001,49.98982
+1898038650,Male,74,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,no,12.07666,>10 years,1,just 1,3,3 or more,pensioner,marginal,47.50863,48.62111
+1336865737,Male,66,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,very high to higher,highest,no,2.4914441,0-5 years,0,none,1,0-1 risk factors,retired,adequate,43.90826000000001,37.57899999999999
+-1888775517,Female,84,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,yes,2.7022588,0-5 years,0,none,1,0-1 risk factors,retired,marginal,26.17453,54.67918
+65172148,Female,68,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,no,3.340178,0-5 years,0,none,3,3 or more,employed,marginal,27.64063000000001,55.74044
+1984008641,Male,80,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,middle,no,21.034908,>10 years,0,none,2,2 risk factors,retired,marginal,51.76344,54.91039
+-75343773,Female,50,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,very high to higher,low,no,4.9883642,0-5 years,0,none,2,2 risk factors,pensioner,inadequate,42.51484000000001,22.33172
+1583954324,Male,76,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,middle,no,9.7412729,6-10 years,1,just 1,2,2 risk factors,pensioner,marginal,23.95216,56.9045
+83323663,Male,64,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,no,2.3189597,0-5 years,0,none,3,3 or more,retired,adequate,53.26419,47.70257
+-2038241473,Male,70,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,middle,yes,4.5831623,0-5 years,2,2 or more,3,3 or more,pensioner,marginal,22.10094,39.78326
+1786000214,Male,80,80 years above,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,yes,5.560575,0-5 years,0,none,2,2 risk factors,pensioner,adequate,54.49901000000001,53.47936
+1256861036,Male,72,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,lower to very low,low,yes,9.6919918,6-10 years,2,2 or more,4,3 or more,pensioner,,50.41386,50.36581
+-589612038,Female,62,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,yes,15.507187,>10 years,0,none,1,0-1 risk factors,retired,adequate,57.00812000000001,33.13654
+17928052,Female,86,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,no,2.108145,0-5 years,3,2 or more,3,3 or more,pensioner,inadequate,25.35888,53.80425
+1106019973,Male,74,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,very high to higher,high,no,33.839836,>10 years,3,2 or more,1,0-1 risk factors,retired,adequate,40.07709,30.14902
+1140427769,Male,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,yes,5.9301848,0-5 years,2,2 or more,1,0-1 risk factors,pensioner,marginal,47.18543,48.43901
+-91965411,Male,62,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,yes,11.134839,>10 years,0,none,4,3 or more,pensioner,marginal,35.40095,36.13385
+32258848,Male,76,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,yes,3.3976729,0-5 years,0,none,2,2 risk factors,employed,inadequate,43.03803000000001,55.44534
+8052035,Female,86,80 years above,Rural Australia,SA practice,married,seniorsec/secondary,the same,high,no,18.009583,>10 years,0,none,1,0-1 risk factors,pensioner,inadequate,26.90424,43.98348
+-2143212872,Male,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,yes,31.915127,>10 years,3,2 or more,1,0-1 risk factors,pensioner,inadequate,22.59627,52.8379
+14580539,Female,70,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,2.2751541,0-5 years,2,2 or more,3,3 or more,retired,adequate,37.0368,53.59868
+1872780869,Female,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,low,no,4.2464066,0-5 years,1,just 1,2,2 risk factors,pensioner,inadequate,33.54339,52.80108
+1946932330,Male,86,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,low,no,8.7775497,6-10 years,2,2 or more,2,2 risk factors,pensioner,marginal,28.7509,54.05116
+587223746,Male,88,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,highest,no,19.786448,>10 years,0,none,1,0-1 risk factors,retired,adequate,34.82832,44.32638
+689552877,Male,66,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,lower to very low,low,yes,13.752225,>10 years,2,2 or more,4,3 or more,pensioner,adequate,50.96567,38.66393
+-2061080403,Male,78,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,middle,no,13.598905,>10 years,0,none,3,3 or more,pensioner,adequate,25.23501,41.93425
+-510628074,Female,84,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,high,yes,17.579741,>10 years,1,just 1,2,2 risk factors,pensioner,inadequate,32.60758,58.53908
+-383868753,Female,82,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,no,2.0670774,0-5 years,0,none,2,2 risk factors,pensioner,adequate,23.62138,48.3678
+-1748217317,Male,78,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,no,21.037645,>10 years,0,none,2,2 risk factors,employed,adequate,54.85467000000001,48.83932
+741898123,Male,52,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,low,yes,3.008898,0-5 years,0,none,2,2 risk factors,employed,marginal,56.01256,39.25195
+125142618,Female,62,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,1.8672142,0-5 years,0,none,3,3 or more,employed,marginal,51.13522,51.09702
+1590362249,Male,80,80 years above,Rural Australia,QLD practice,married,seniorsec/secondary,very high to higher,middle,yes,8.0465431,6-10 years,0,none,1,0-1 risk factors,retired,adequate,35.02707,49.2079
+-203970494,Male,74,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,lower to very low,high,yes,3.230664,0-5 years,0,none,3,3 or more,pensioner,adequate,46.55179,44.07821
+175768933,Male,78,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,4.1670089,0-5 years,0,none,0,0-1 risk factors,retired,marginal,39.07856,43.33389
+-396764351,Male,72,70 to 79 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,the same,high,yes,3.4825461,0-5 years,0,none,0,0-1 risk factors,pensioner,marginal,41.81645,53.67054
+153772068,Male,80,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,yes,15.895962,>10 years,0,none,2,2 risk factors,retired,marginal,45.19642,56.89205
+1366437779,Male,74,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,very high to higher,high,yes,7.5071869,6-10 years,2,2 or more,3,3 or more,pensioner,marginal,55.18421,39.42333
+-2059157579,Female,70,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,lower to very low,high,no,7.2361398,6-10 years,0,none,4,3 or more,pensioner,adequate,46.1373,45.68337
+1341910685,Female,78,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,lower to very low,highest,no,8.9308691,6-10 years,0,none,3,3 or more,pensioner,adequate,55.87627000000001,49.62709
+-1033493575,Male,72,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,lower to very low,low,yes,2.3518138,0-5 years,1,just 1,3,3 or more,pensioner,marginal,25.43532,47.59123
+-2025553071,Female,80,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,yes,8.9281311,6-10 years,1,just 1,1,0-1 risk factors,pensioner,adequate,53.70902,48.37035
+-1459200626,Male,76,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,no,6.1683779,6-10 years,1,just 1,1,0-1 risk factors,pensioner,adequate,33.61982,34.35385
+-1020024714,Male,66,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,19.87406,>10 years,1,just 1,4,3 or more,pensioner,adequate,57.35857,45.60979
+671041648,Male,74,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,very high to higher,highest,yes,3.7426419,0-5 years,0,none,3,3 or more,retired,marginal,54.98006,50.48702
+-438944064,Female,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,highest,no,6.0396986,6-10 years,0,none,2,2 risk factors,pensioner,adequate,45.86076,43.09343
+-1049415475,Male,82,80 years above,Urban Area,SA practice,married,seniorsec/secondary,very high to higher,low,yes,2.0807667,0-5 years,0,none,1,0-1 risk factors,retired,marginal,38.95726000000001,42.13753
+510114259,Male,56,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,highest,yes,7.0280628,6-10 years,0,none,3,3 or more,employed,marginal,56.27778,47.4216
+2024905499,Male,80,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,7.2881589,6-10 years,1,just 1,2,2 risk factors,retired,adequate,40.01945000000001,58.01674
+-1225372065,Male,76,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,4.6242299,0-5 years,0,none,3,3 or more,retired,inadequate,37.94160000000001,36.33758
+-259615436,Male,84,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,high,no,11.069131,>10 years,0,none,2,2 risk factors,pensioner,marginal,30.48385,38.00686
+425193182,Male,68,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,low,no,10.247775,6-10 years,2,2 or more,3,3 or more,pensioner,marginal,22.25045,48.23175
+912304565,Female,78,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,5.9603014,0-5 years,1,just 1,3,3 or more,retired,marginal,45.02022,48.70586
+1053896006,Male,78,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,yes,14.06434,>10 years,2,2 or more,1,0-1 risk factors,pensioner,inadequate,33.46364000000001,52.52993
+1791838395,Male,80,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,high,yes,20.73922,>10 years,2,2 or more,1,0-1 risk factors,pensioner,adequate,32.45905000000001,53.22458
+494782833,Male,78,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,low,yes,4.1204653,0-5 years,1,just 1,1,0-1 risk factors,pensioner,marginal,36.31789000000001,34.95872
+1717785556,Female,76,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,low,yes,2.5708418,0-5 years,0,none,3,3 or more,pensioner,marginal,44.48277,47.28397
+485263121,Male,62,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,4.5585217,0-5 years,2,2 or more,3,3 or more,employed,,48.18269,52.85263
+1257681209,Male,60,38 to 69 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,lower to very low,high,yes,4.5448322,0-5 years,0,none,5,3 or more,employed,marginal,31.43215,48.78842
+1097477654,Male,72,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,low,no,14.729637,>10 years,1,just 1,1,0-1 risk factors,pensioner,marginal,29.90757000000001,58.79767
+2063161341,Male,64,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,no,8.7720737,6-10 years,1,just 1,3,3 or more,employed,marginal,37.82932,54.91732
+987593171,Male,48,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,no,.64613277,0-5 years,0,none,2,2 risk factors,employed,adequate,56.87514,46.75103
+-1400009565,Female,86,80 years above,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,low,no,6.45859,6-10 years,0,none,1,0-1 risk factors,pensioner,inadequate,52.08014,40.01313
+-79001318,Male,78,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,high,yes,21.67009,>10 years,0,none,3,3 or more,employed,marginal,48.62728,53.86474
+-623903336,Female,74,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,lower to very low,low,yes,19.786448,>10 years,2,2 or more,3,3 or more,pensioner,marginal,20.84079,59.44405
+-1282925303,Female,64,38 to 69 years,Rural Australia,SA practice,unmarried,seniorsec/secondary,lower to very low,low,no,3.2854209,0-5 years,2,2 or more,3,3 or more,pensioner,marginal,17.72988,51.7198
+-1157879128,Male,76,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,low,yes,8.8624229,6-10 years,0,none,1,0-1 risk factors,pensioner,adequate,45.7577,50.74169
+-928290331,Male,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,6.6119099,6-10 years,0,none,2,2 risk factors,pensioner,marginal,39.07922000000001,34.09649999999999
+-838546116,Female,68,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,middle,no,3.6605065,0-5 years,0,none,2,2 risk factors,pensioner,inadequate,56.42498000000001,44.05918
+602554341,Male,70,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,7.9753594,6-10 years,1,just 1,1,0-1 risk factors,retired,marginal,28.86471,63.01283
+-653301512,Female,96,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,high,yes,5.0212183,0-5 years,0,none,1,0-1 risk factors,pensioner,marginal,37.56662,46.7698
+429624789,Female,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,lower to very low,highest,no,11.195072,>10 years,0,none,2,2 risk factors,pensioner,adequate,41.44084,53.90389
+-1426686063,Female,74,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,low,yes,10.85284,6-10 years,0,none,1,0-1 risk factors,pensioner,adequate,55.57603,49.57053
+607818843,Male,72,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,yes,15.134839,>10 years,0,none,2,2 risk factors,pensioner,adequate,52.26292,49.24785
+-5497,Male,66,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,yes,2.787132,0-5 years,0,none,3,3 or more,employed,marginal,54.87393,37.54225
+-1940232683,Female,76,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,low,no,11.882273,>10 years,1,just 1,3,3 or more,pensioner,adequate,35.59239,47.77534
+-1780941724,Male,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,very high to higher,highest,no,9.4318962,6-10 years,0,none,2,2 risk factors,retired,,43.26606,37.68717
+-1592175503,Male,78,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,20.876112,>10 years,1,just 1,3,3 or more,retired,inadequate,30.70163,49.13658
+-563059445,Male,70,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,5.6509242,0-5 years,0,none,3,3 or more,pensioner,marginal,45.88129000000001,56.14304
+-382866273,Female,66,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,very high to higher,middle,yes,18.825462,>10 years,0,none,3,3 or more,retired,adequate,54.85467000000001,48.83932
+1629390620,Male,82,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,14.748802,>10 years,0,none,2,2 risk factors,pensioner,inadequate,34.96848,39.15264999999999
+-345352295,Female,74,70 to 79 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,the same,middle,no,9.3607121,6-10 years,1,just 1,3,3 or more,pensioner,adequate,40.89336,50.00965
+1726752499,Female,66,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,no,8.5968513,6-10 years,0,none,2,2 risk factors,employed,marginal,56.26015,43.38397
+288266004,Male,80,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,no,9.6290216,6-10 years,4,2 or more,2,2 risk factors,retired,marginal,38.24958,36.33811
+86415925,Male,56,38 to 69 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,high,no,8.8624229,6-10 years,0,none,4,3 or more,pensioner,marginal,22.01529000000001,31.06089
+-1779047954,Female,68,38 to 69 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,high,no,2.6064339,0-5 years,1,just 1,1,0-1 risk factors,pensioner,adequate,43.49676,53.81899
+-1402314312,Male,74,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,middle,no,11.764544,>10 years,0,none,3,3 or more,pensioner,marginal,46.74545000000001,50.91753
+-781539848,Female,74,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,low,no,10.329911,6-10 years,0,none,3,3 or more,pensioner,marginal,30.59906,55.66738
+241632224,Female,80,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,middle,no,,,1,just 1,2,2 risk factors,retired,inadequate,27.87773,54.91707
+-1606932962,Male,74,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,low,yes,8.895277,6-10 years,2,2 or more,2,2 risk factors,pensioner,marginal,21.31542,61.09032
+-1335552281,Male,68,38 to 69 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,the same,middle,no,9.3880901,6-10 years,1,just 1,3,3 or more,pensioner,marginal,43.53115,52.34355
+-447523897,Male,66,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,very high to higher,low,yes,10.403833,6-10 years,0,none,1,0-1 risk factors,retired,marginal,53.45891,51.62533
+1895602323,Female,56,38 to 69 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,the same,high,no,8.024641,6-10 years,0,none,0,0-1 risk factors,employed,marginal,51.80289000000001,45.0222
+-1845419175,Male,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,middle,no,5.8453116,0-5 years,0,none,1,0-1 risk factors,retired,marginal,43.53115,52.34355
+880314475,Male,64,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,no,6.4777551,6-10 years,0,none,2,2 risk factors,pensioner,marginal,36.96596,40.16679
+-1385554339,Male,72,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,yes,17.511293,>10 years,1,just 1,4,3 or more,pensioner,inadequate,53.48625000000001,55.23202
+1936538311,Female,74,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,highest,no,15.008898,>10 years,1,just 1,3,3 or more,pensioner,inadequate,35.8599,44.47919
+495157674,Male,72,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,very high to higher,highest,yes,7.2963724,6-10 years,1,just 1,3,3 or more,retired,adequate,56.17339000000001,48.89996
+-947905328,Male,60,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,very high to higher,middle,yes,9.4072552,6-10 years,4,2 or more,3,3 or more,employed,adequate,50.0582,55.00585
+-1820110133,Male,70,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,yes,5.6591377,0-5 years,0,none,2,2 risk factors,retired,marginal,39.96198,52.4942
+-1591622344,Male,68,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,no,2.5078714,0-5 years,0,none,1,0-1 risk factors,retired,adequate,50.86861,47.9073
+-1310759936,Male,58,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,21.938398,>10 years,0,none,3,3 or more,employed,marginal,58.01308,40.78039
+1213367744,Female,72,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,high,yes,8.1122522,6-10 years,0,none,1,0-1 risk factors,pensioner,adequate,46.54732,47.03024
+1565919491,Male,92,80 years above,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,highest,no,5.322382,0-5 years,0,none,2,2 risk factors,pensioner,marginal,35.43138,45.07212
+-243129409,Male,68,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,lower to very low,high,yes,14.825462,>10 years,0,none,3,3 or more,pensioner,marginal,28.07931,29.1909
+279509692,Male,76,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,very high to higher,low,yes,11.846681,>10 years,0,none,2,2 risk factors,pensioner,marginal,42.74513,55.09739
+18819336,Male,64,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,highest,no,5.3908281,0-5 years,0,none,1,0-1 risk factors,retired,marginal,44.54604000000001,47.79443999999999
+1196702247,Female,70,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,yes,4.221766,0-5 years,2,2 or more,3,3 or more,pensioner,marginal,47.06784,45.53884
+1587473713,Female,70,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,highest,yes,8.005476,6-10 years,0,none,2,2 risk factors,pensioner,marginal,21.30142,56.11722
+-1201194723,Female,70,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,high,no,7.5975361,6-10 years,2,2 or more,2,2 risk factors,retired,adequate,51.14852000000001,45.63081
+-865121556,Male,72,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,very high to higher,high,no,39.969883,>10 years,1,just 1,3,3 or more,pensioner,adequate,52.42858,52.9609
+375254019,Male,70,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,very high to higher,high,yes,7.2498288,6-10 years,1,just 1,3,3 or more,pensioner,marginal,60.77158,28.43403
+-987019079,Female,72,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,no,7.6084871,6-10 years,1,just 1,3,3 or more,retired,marginal,23.11263,52.03524
+-221328949,Male,78,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,highest,yes,19.099247,>10 years,0,none,2,2 risk factors,pensioner,adequate,52.14056,46.25005
+-1196383781,Male,58,38 to 69 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,high,yes,2.3271732,0-5 years,0,none,2,2 risk factors,pensioner,adequate,43.35268000000001,44.96451
+-1877145972,Male,70,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,middle,no,15.175907,>10 years,1,just 1,1,0-1 risk factors,pensioner,adequate,52.79377,53.57482
+684608760,Female,76,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,middle,yes,1.2731006,0-5 years,2,2 or more,1,0-1 risk factors,pensioner,adequate,34.75007,52.13257
+1992054177,Male,76,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,1.8453114,0-5 years,0,none,2,2 risk factors,pensioner,marginal,37.6434,55.5621
+908557719,Male,76,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,high,yes,18.340862,>10 years,0,none,1,0-1 risk factors,pensioner,adequate,31.89997,58.54634
+-1015314732,Male,84,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,no,1.9192334,0-5 years,0,none,2,2 risk factors,pensioner,marginal,41.59443,56.07099
+-1822153861,Female,92,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,very high to higher,high,yes,9.1772757,6-10 years,2,2 or more,3,3 or more,pensioner,marginal,24.65713,55.95318
+639192774,Male,54,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,highest,yes,3.0116358,0-5 years,1,just 1,3,3 or more,employed,adequate,26.01248,31.01724
+-23556726,Male,80,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,yes,21.007528,>10 years,1,just 1,3,3 or more,retired,marginal,40.56303,50.66605
+962047659,Female,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,very high to higher,highest,yes,19.748117,>10 years,1,just 1,2,2 risk factors,retired,inadequate,43.41732,43.53915
+290447418,Male,82,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,6.3819304,6-10 years,0,none,3,3 or more,pensioner,inadequate,44.00281,36.4976
+-1212746604,Male,64,38 to 69 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,lower to very low,middle,yes,8.7967148,6-10 years,0,none,1,0-1 risk factors,pensioner,marginal,52.1191,50.27035
+-149588092,Male,66,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,low,yes,4.6954141,0-5 years,0,none,2,2 risk factors,pensioner,marginal,41.15484000000001,51.57912
+-477480444,Male,62,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,low,yes,4.238193,0-5 years,0,none,2,2 risk factors,pensioner,marginal,47.18543,48.43901
+611064027,Male,76,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,yes,5.0075293,0-5 years,0,none,3,3 or more,pensioner,marginal,40.78121,45.05987
+906678219,Male,70,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,12.093087,>10 years,1,just 1,3,3 or more,retired,inadequate,49.51633,36.48814
+129032808,Male,58,38 to 69 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,lower to very low,middle,no,4.3230662,0-5 years,0,none,3,3 or more,pensioner,marginal,31.86348,37.00597
+31782148,Female,60,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,low,yes,11.008898,>10 years,3,2 or more,2,2 risk factors,pensioner,marginal,43.08891,35.24745
+1711555481,Female,66,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,no,14.937714,>10 years,0,none,2,2 risk factors,retired,adequate,52.42858,52.9609
+-167284650,Female,68,38 to 69 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,low,no,3.575633,0-5 years,0,none,1,0-1 risk factors,pensioner,adequate,62.43296,19.46926
+506467918,Male,64,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,low,no,13.89733,>10 years,0,none,3,3 or more,pensioner,adequate,39.6655,48.77406
+134631649,Male,82,80 years above,Urban Area,QLD practice,unmarried,seniorsec/secondary,very high to higher,high,yes,5.4893909,0-5 years,0,none,1,0-1 risk factors,pensioner,adequate,35.00354,50.6032
+725041384,Male,60,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,very high to higher,low,yes,7.7508554,6-10 years,0,none,3,3 or more,retired,adequate,55.57603,49.57053
+-1567284194,Female,78,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,no,1.8617386,0-5 years,0,none,2,2 risk factors,pensioner,marginal,32.35401,59.2729
+2097048346,Male,82,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,16.134155,>10 years,0,none,2,2 risk factors,pensioner,marginal,53.14943,48.93478
+1190359983,Male,72,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,no,39.704311,>10 years,1,just 1,3,3 or more,pensioner,inadequate,30.91760000000001,45.69553
+844458908,Female,68,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,no,14.934976,>10 years,0,none,0,0-1 risk factors,pensioner,marginal,30.10324,50.28598
+881844900,Male,66,38 to 69 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,the same,middle,yes,13.727584,>10 years,0,none,0,0-1 risk factors,pensioner,marginal,52.73755000000001,50.89412
+-805745698,Female,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,yes,7.4633813,6-10 years,0,none,2,2 risk factors,pensioner,adequate,54.44279,50.79866
+1787098370,Male,72,70 to 79 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,lower to very low,high,no,19.764545,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,55.99854000000001,50.4911
+-1455397737,Female,84,80 years above,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,low,yes,9.4373713,6-10 years,0,none,0,0-1 risk factors,retired,adequate,55.16415000000001,51.52987
+220510774,Female,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,7.4086242,6-10 years,1,just 1,3,3 or more,pensioner,marginal,27.39932,50.87598
+-1628956841,Female,72,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,16.722792,>10 years,0,none,2,2 risk factors,pensioner,adequate,25.39169,52.26796
+-47330592,Male,72,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,middle,yes,22.740589,>10 years,2,2 or more,2,2 risk factors,pensioner,marginal,56.90906,42.20801
+1747940072,Male,78,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,yes,10.655715,6-10 years,0,none,3,3 or more,pensioner,marginal,28.64143,26.92722
+-875241923,Male,78,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,11.78371,>10 years,0,none,3,3 or more,pensioner,inadequate,31.06399,34.6596
+-44528407,Male,78,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,yes,3.871321,0-5 years,0,none,2,2 risk factors,pensioner,marginal,47.67967,52.96542
+-223115180,Female,80,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,highest,yes,7.7453799,6-10 years,1,just 1,1,0-1 risk factors,pensioner,marginal,38.90843,31.23795
+2059144961,Male,60,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,high,yes,10.160164,6-10 years,1,just 1,3,3 or more,employed,marginal,51.31101,31.02134
+-1156416664,Male,68,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,middle,yes,2.5078714,0-5 years,0,none,5,3 or more,pensioner,inadequate,39.36995,54.71629
+-972139933,Male,48,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,highest,yes,3.7590692,0-5 years,0,none,1,0-1 risk factors,employed,marginal,53.87079,49.66599
+1673001781,Male,76,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,,,0,none,2,2 risk factors,pensioner,adequate,32.3124,41.91732
+178760531,Female,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,highest,yes,21.826147,>10 years,0,none,1,0-1 risk factors,pensioner,adequate,47.92736000000001,42.19557
+-1734184102,Male,72,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,12.722793,>10 years,0,none,3,3 or more,pensioner,adequate,53.45891,51.62533
+1326963006,Male,80,80 years above,Urban Area,SA practice,married,seniorsec/secondary,the same,middle,yes,15.78371,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,47.57609,50.88921
+1496245338,Female,66,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,high,no,6.0725532,6-10 years,0,none,3,3 or more,pensioner,adequate,36.57545,51.43616
+-1225351256,Male,78,70 to 79 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,1.377139,0-5 years,1,just 1,3,3 or more,retired,,34.26419,46.69404
+1088157685,Male,76,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,highest,yes,16.670773,>10 years,4,2 or more,1,0-1 risk factors,pensioner,marginal,48.97303,54.8293
+-234359614,Male,56,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,highest,yes,3.4360027,0-5 years,0,none,2,2 risk factors,employed,adequate,54.49901000000001,53.47936
+-431796779,Male,80,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,very high to higher,low,yes,26.880219,>10 years,0,none,2,2 risk factors,retired,marginal,50.72334,53.05636
+478976183,Male,62,38 to 69 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,lower to very low,middle,no,8.2655716,6-10 years,1,just 1,2,2 risk factors,pensioner,adequate,40.14173,51.28805
+1246341968,Male,74,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,very high to higher,highest,yes,30.633812,>10 years,1,just 1,3,3 or more,retired,marginal,51.70722000000001,52.22969
+1695720516,Male,74,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,lower to very low,highest,yes,16.364134,>10 years,1,just 1,2,2 risk factors,pensioner,marginal,38.56738,50.78015
+944297118,Female,68,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,lower to very low,high,no,10.726899,6-10 years,1,just 1,1,0-1 risk factors,pensioner,,40.83121,31.3894
+-908986671,Male,76,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,no,11.742642,>10 years,0,none,2,2 risk factors,pensioner,marginal,46.92204,53.9602
+345667234,Male,56,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,lower to very low,low,yes,8.8104038,6-10 years,0,none,2,2 risk factors,employed,marginal,42.34291,49.26575
+725602861,Male,66,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,very high to higher,low,yes,3.8521562,0-5 years,1,just 1,2,2 risk factors,retired,adequate,46.77355,50.39835
+-1371328362,Male,60,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,no,18.636551,>10 years,1,just 1,3,3 or more,pensioner,marginal,37.94160000000001,36.33758
+-1074672635,Male,60,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,very high to higher,highest,yes,5.6208076,0-5 years,0,none,3,3 or more,employed,adequate,50.86861,47.9073
+-1669592347,Male,70,70 to 79 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,the same,middle,yes,7.3785081,6-10 years,0,none,3,3 or more,pensioner,adequate,52.79377,53.57482
+-213280745,Male,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,yes,13.130733,>10 years,0,none,3,3 or more,pensioner,inadequate,22.72048,40.29387
+1171602721,Male,64,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,2.661191,0-5 years,0,none,3,3 or more,employed,marginal,47.26779000000001,54.92476
+959949576,Female,68,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,9.4674883,6-10 years,0,none,2,2 risk factors,pensioner,marginal,43.61980000000001,31.38839
+1208884473,Female,56,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,no,4.7118411,0-5 years,1,just 1,0,0-1 risk factors,employed,marginal,57.40603,42.89197
+-68069002,Female,86,80 years above,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,highest,no,11.542779,>10 years,0,none,1,0-1 risk factors,retired,adequate,45.88129000000001,56.14304
+-132344831,Female,78,70 to 79 years,Rural Australia,SA practice,unmarried,seniorsec/secondary,the same,low,no,4.7994523,0-5 years,0,none,2,2 risk factors,pensioner,adequate,41.56436,41.11482
+1728793455,Female,56,38 to 69 years,Rural Australia,QLD practice,married,seniorsec/secondary,the same,middle,yes,6.7679672,6-10 years,2,2 or more,3,3 or more,pensioner,marginal,41.02623,45.84806
+1285580765,Male,74,70 to 79 years,Urban Area,SA practice,unmarried,seniorsec/secondary,very high to higher,high,yes,7.1293635,6-10 years,0,none,3,3 or more,retired,adequate,55.28688,49.21303
+-1407021022,Male,74,70 to 79 years,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,high,no,12.895277,>10 years,0,none,3,3 or more,retired,adequate,37.35074,42.81855
+-391449990,Female,70,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,very high to higher,high,no,7.2114987,6-10 years,1,just 1,2,2 risk factors,pensioner,inadequate,47.24818000000001,52.04462
+764440280,Female,80,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,high,no,10.444901,6-10 years,0,none,3,3 or more,pensioner,adequate,15.01345,60.91894
+-2045717587,Female,74,70 to 79 years,Rural Australia,QLD practice,unmarried,seniorsec/secondary,very high to higher,middle,yes,8.4873371,6-10 years,1,just 1,2,2 risk factors,pensioner,adequate,34.25601,50.24034
+-536587539,Female,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,4.5338807,0-5 years,1,just 1,2,2 risk factors,pensioner,inadequate,47.06972,35.44009
+716629215,Female,82,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,yes,6.3052702,6-10 years,1,just 1,2,2 risk factors,pensioner,marginal,37.05179,51.54929
+-1076179022,Male,74,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,no,8.881588,6-10 years,0,none,2,2 risk factors,pensioner,adequate,53.14943,48.93478
+997573118,Male,66,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,lower to very low,highest,yes,11.386722,>10 years,0,none,2,2 risk factors,employed,marginal,53.24458,44.82243
+-16155323,Female,84,80 years above,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,highest,no,11.863108,>10 years,0,none,3,3 or more,pensioner,marginal,42.74513,55.09739
+-310646301,Male,64,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,10.628337,6-10 years,2,2 or more,2,2 risk factors,pensioner,adequate,34.57341,51.57821
+1805475708,Male,66,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,yes,1.4428474,0-5 years,0,none,3,3 or more,retired,marginal,52.1191,50.27035
+-1641784020,Female,66,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,low,yes,.85968512,0-5 years,0,none,2,2 risk factors,pensioner,marginal,32.51751,55.8354
+-363526415,Female,78,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,9.8370981,6-10 years,1,just 1,3,3 or more,pensioner,marginal,53.00748,54.54585
+170888056,Female,74,70 to 79 years,Rural Australia,SA practice,unmarried,seniorsec/secondary,lower to very low,high,no,4.1040382,0-5 years,0,none,1,0-1 risk factors,pensioner,marginal,44.76201,47.21172
+483815337,Male,76,70 to 79 years,Urban Area,SA practice,married,seniorsec/secondary,the same,low,yes,10.729637,6-10 years,0,none,3,3 or more,pensioner,adequate,32.29091,43.24433
+1398058830,Male,80,80 years above,Rural Australia,SA practice,married,seniorsec/secondary,the same,high,yes,24.936344,>10 years,3,2 or more,3,3 or more,retired,adequate,56.24024,54.46057
+1327440201,Female,64,38 to 69 years,Urban Area,SA practice,married,seniorsec/secondary,the same,high,yes,5.4291582,0-5 years,0,none,3,3 or more,pensioner,adequate,51.04208000000001,54.17918
+1243908578,Male,78,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,middle,yes,24.73922,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,55.57603,49.57053
+-1059118109,Female,52,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,lower to very low,low,yes,15.750855,>10 years,1,just 1,3,3 or more,pensioner,marginal,22.39512000000001,27.36734
+918058127,Male,62,38 to 69 years,Rural Australia,SA practice,married,seniorsec/secondary,very high to higher,low,no,3.468857,0-5 years,0,none,1,0-1 risk factors,employed,adequate,54.92152,54.39993
+-1040647411,Male,80,80 years above,Urban Area,QLD practice,unmarried,seniorsec/secondary,the same,high,yes,18.847364,>10 years,0,none,1,0-1 risk factors,pensioner,adequate,46.45337000000001,40.94086
+1983164542,Female,64,38 to 69 years,Urban Area,SA practice,unmarried,seniorsec/secondary,the same,low,no,18.729637,>10 years,0,none,3,3 or more,pensioner,marginal,24.05021,50.91861
+-966572144,Female,74,70 to 79 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,highest,yes,3.0691307,0-5 years,0,none,4,3 or more,pensioner,inadequate,48.62728,53.86474
+1934072054,Male,62,38 to 69 years,Rural Australia,SA practice,unmarried,seniorsec/secondary,lower to very low,low,no,,,2,2 or more,3,3 or more,pensioner,inadequate,50.26788000000001,39.3765
+1162415817,Male,70,70 to 79 years,Rural Australia,SA practice,married,seniorsec/secondary,the same,low,yes,4.3915129,0-5 years,0,none,3,3 or more,pensioner,inadequate,46.77542,45.31829
+385554845,Male,82,80 years above,Urban Area,QLD practice,married,seniorsec/secondary,the same,high,yes,1.1690623,0-5 years,3,2 or more,1,0-1 risk factors,pensioner,inadequate,55.57603,49.57053
+1381182478,Male,68,38 to 69 years,Urban Area,QLD practice,married,seniorsec/secondary,the same,middle,yes,6.0232716,6-10 years,0,none,2,2 risk factors,pensioner,adequate,55.16415000000001,51.52987
+390705998,Male,70,70 to 79 years,Rural Australia,QLD practice,married,no schooling/primary,the same,low,no,1.3114306,0-5 years,3,2 or more,3,3 or more,pensioner,marginal,28.66683,36.02679999999999
+-1028080433,Male,78,70 to 79 years,Rural Australia,SA practice,unmarried,no schooling/primary,lower to very low,low,yes,1.486653,0-5 years,0,none,3,3 or more,pensioner,marginal,49.33263,46.75612
+-1715682972,Female,78,70 to 79 years,Urban Area,QLD practice,unmarried,no schooling/primary,the same,low,yes,4.2984257,0-5 years,1,just 1,1,0-1 risk factors,pensioner,marginal,48.18892,50.49248
+-1384062604,Male,78,70 to 79 years,Urban Area,SA practice,unmarried,no schooling/primary,the same,high,no,8.2902126,6-10 years,3,2 or more,3,3 or more,retired,inadequate,35.95421,39.40626
+1538271292,Male,86,80 years above,Urban Area,QLD practice,married,no schooling/primary,very high to higher,low,yes,2.8391514,0-5 years,1,just 1,2,2 risk factors,pensioner,inadequate,32.61149,58.20767
+530336661,Male,74,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,yes,32.673512,>10 years,1,just 1,3,3 or more,pensioner,adequate,42.13853,53.13397
+-152517911,Male,70,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,yes,7.104723,6-10 years,1,just 1,2,2 risk factors,employed,marginal,58.71483000000001,38.63146
+1902303222,Male,76,70 to 79 years,Urban Area,QLD practice,unmarried,no schooling/primary,the same,high,no,6.015058,6-10 years,0,none,1,0-1 risk factors,retired,inadequate,30.62905,50.7311
+585674130,Female,70,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,yes,9.7330599,6-10 years,2,2 or more,4,3 or more,pensioner,marginal,33.36624000000001,41.46335
+1160003435,Female,72,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,the same,low,yes,5.2676249,0-5 years,0,none,3,3 or more,employed,inadequate,42.24941,48.24552
+1089443359,Male,74,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,no,6.3737168,6-10 years,0,none,2,2 risk factors,pensioner,adequate,44.83524,46.39026
+1664473445,Female,76,70 to 79 years,Urban Area,SA practice,married,no schooling/primary,the same,high,no,9.32512,6-10 years,0,none,2,2 risk factors,pensioner,,36.34127,49.48083
+1554648808,Female,78,70 to 79 years,Rural Australia,SA practice,unmarried,no schooling/primary,the same,low,yes,1.982204,0-5 years,0,none,2,2 risk factors,pensioner,marginal,53.86541,49.03473
+1382231868,Male,82,80 years above,Rural Australia,SA practice,unmarried,no schooling/primary,the same,low,yes,4.9609857,0-5 years,0,none,2,2 risk factors,pensioner,inadequate,24.96125,54.66585
+-1164878370,Female,78,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,yes,14.877481,>10 years,0,none,2,2 risk factors,retired,adequate,54.2895,45.58651
+-452211281,Male,74,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,no,17.733059,>10 years,0,none,3,3 or more,retired,adequate,46.29432,50.28776
+1155306095,Male,74,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,lower to very low,low,yes,5.4072552,0-5 years,2,2 or more,3,3 or more,pensioner,marginal,26.59484000000001,51.53777
+-767900368,Female,72,70 to 79 years,Urban Area,QLD practice,unmarried,no schooling/primary,lower to very low,low,no,3.8165641,0-5 years,1,just 1,1,0-1 risk factors,pensioner,inadequate,28.42106,32.70461
+596878025,Male,74,70 to 79 years,Urban Area,SA practice,married,no schooling/primary,lower to very low,low,yes,3.0691307,0-5 years,0,none,2,2 risk factors,pensioner,marginal,55.16415000000001,51.52987
+637028232,Male,70,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,no,,,1,just 1,1,0-1 risk factors,pensioner,marginal,22.25767000000001,58.36706
+633271377,Male,76,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,the same,low,no,9.6947298,6-10 years,0,none,2,2 risk factors,pensioner,marginal,55.16415000000001,51.52987
+1002792833,Male,72,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,the same,high,yes,13.327858,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,35.68195,53.39303
+490805851,Male,76,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,very high to higher,low,yes,23.655031,>10 years,1,just 1,2,2 risk factors,pensioner,adequate,36.08623,28.81858
+-1401798551,Male,70,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,lower to very low,low,no,10.557153,6-10 years,0,none,3,3 or more,pensioner,marginal,41.46432,54.26967
+360565815,Male,78,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,the same,highest,yes,3.2635181,0-5 years,4,2 or more,2,2 risk factors,pensioner,inadequate,25.79631,46.67556
+295655030,Female,74,70 to 79 years,Urban Area,QLD practice,unmarried,no schooling/primary,the same,high,no,5.7303219,0-5 years,0,none,2,2 risk factors,pensioner,marginal,52.42858,52.9609
+-1698529752,Female,80,80 years above,Rural Australia,SA practice,unmarried,no schooling/primary,the same,low,yes,3.0171115,0-5 years,0,none,3,3 or more,pensioner,inadequate,50.0582,55.00585
+2089934303,Male,64,38 to 69 years,Rural Australia,QLD practice,unmarried,no schooling/primary,lower to very low,high,no,15.720739,>10 years,4,2 or more,3,3 or more,pensioner,adequate,30.67599,32.55855
+-210071612,Male,76,70 to 79 years,Rural Australia,SA practice,unmarried,no schooling/primary,the same,low,yes,20.722792,>10 years,0,none,3,3 or more,retired,inadequate,41.60536000000001,55.40061
+-1419099883,Male,72,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,no,19.895962,>10 years,0,none,3,3 or more,pensioner,marginal,42.80135,57.77809
+1329485161,Male,84,80 years above,Urban Area,QLD practice,married,no schooling/primary,the same,low,yes,28.881588,>10 years,0,none,3,3 or more,pensioner,marginal,26.64889000000001,27.90608
+-432541776,Male,76,70 to 79 years,Urban Area,QLD practice,unmarried,no schooling/primary,the same,highest,yes,4.4462695,0-5 years,0,none,2,2 risk factors,retired,marginal,41.68573000000001,47.72006
+1614648173,Female,68,38 to 69 years,Rural Australia,QLD practice,married,no schooling/primary,lower to very low,middle,yes,11.04449,>10 years,0,none,2,2 risk factors,pensioner,marginal,37.28564,33.50319999999999
+-958151708,Male,72,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,the same,high,yes,10.340862,6-10 years,1,just 1,0,0-1 risk factors,pensioner,adequate,55.16415000000001,51.52987
+691638732,Female,82,80 years above,Urban Area,QLD practice,married,no schooling/primary,the same,highest,no,19.956194,>10 years,0,none,2,2 risk factors,pensioner,marginal,28.57371,31.83995
+-1230952654,Male,70,70 to 79 years,Rural Australia,SA practice,married,no schooling/primary,lower to very low,low,yes,13.675565,>10 years,0,none,2,2 risk factors,pensioner,marginal,32.3039,31.56748
+1341530511,Male,80,80 years above,Urban Area,QLD practice,unmarried,no schooling/primary,very high to higher,low,no,21.897331,>10 years,0,none,3,3 or more,retired,inadequate,35.50308,52.02275
+1918298288,Male,76,70 to 79 years,Rural Australia,SA practice,unmarried,no schooling/primary,the same,low,yes,5.8097196,0-5 years,0,none,3,3 or more,retired,marginal,45.15461000000001,35.50498
+726781162,Male,64,38 to 69 years,Rural Australia,QLD practice,married,no schooling/primary,the same,middle,no,25.765913,>10 years,0,none,1,0-1 risk factors,pensioner,adequate,40.54824000000001,49.6157
+1255924133,Male,72,70 to 79 years,Urban Area,SA practice,married,no schooling/primary,the same,high,yes,5.5359344,0-5 years,0,none,2,2 risk factors,pensioner,,52.18595000000001,55.83096
+1678255543,Male,78,70 to 79 years,Urban Area,SA practice,married,no schooling/primary,lower to very low,middle,no,7.7672825,6-10 years,1,just 1,2,2 risk factors,pensioner,inadequate,21.44936,47.15459
+-985734134,Male,66,38 to 69 years,Urban Area,QLD practice,married,no schooling/primary,the same,low,no,10.896646,6-10 years,2,2 or more,3,3 or more,employed,inadequate,48.31780000000001,51.17419
+-242046112,Female,76,70 to 79 years,Urban Area,SA practice,married,no schooling/primary,the same,high,yes,7.7700205,6-10 years,0,none,1,0-1 risk factors,pensioner,adequate,56.78729000000001,38.43326
+434239242,Female,82,80 years above,Urban Area,SA practice,unmarried,no schooling/primary,the same,highest,yes,11.901438,>10 years,0,none,2,2 risk factors,pensioner,adequate,35.52962,32.92632
+-1751027470,Male,76,70 to 79 years,Urban Area,SA practice,married,no schooling/primary,the same,middle,yes,31.728952,>10 years,2,2 or more,2,2 risk factors,retired,adequate,48.43256,49.94198
+576869106,Male,82,80 years above,Urban Area,QLD practice,unmarried,no schooling/primary,the same,low,yes,12.895277,>10 years,1,just 1,1,0-1 risk factors,pensioner,,34.04832,54.2815
+-2117702452,Male,76,70 to 79 years,Urban Area,SA practice,married,no schooling/primary,the same,high,no,4.1204653,0-5 years,1,just 1,3,3 or more,pensioner,adequate,26.26422000000001,49.1235
+717846639,Female,86,80 years above,Urban Area,SA practice,unmarried,no schooling/primary,the same,low,no,13.574265,>10 years,1,just 1,3,3 or more,pensioner,inadequate,22.32807,40.06683
+619165498,Male,66,38 to 69 years,Urban Area,QLD practice,married,no schooling/primary,the same,low,yes,8.9856262,6-10 years,0,none,0,0-1 risk factors,pensioner,inadequate,28.13221,47.70902
+995180498,Male,70,70 to 79 years,Rural Australia,QLD practice,married,no schooling/primary,the same,middle,yes,1.4757016,0-5 years,0,none,3,3 or more,pensioner,inadequate,55.57603,49.57053
+1054058541,Female,62,38 to 69 years,Rural Australia,SA practice,married,no schooling/primary,the same,low,yes,4.1587954,0-5 years,0,none,2,2 risk factors,employed,marginal,51.23037,46.98467
+681807936,Male,74,70 to 79 years,Rural Australia,QLD practice,married,no schooling/primary,very high to higher,high,yes,12.884326,>10 years,0,none,0,0-1 risk factors,pensioner,marginal,50.01617,30.0095
+378138963,Male,82,80 years above,Rural Australia,SA practice,married,no schooling/primary,lower to very low,low,yes,,,4,2 or more,2,2 risk factors,pensioner,marginal,42.37435000000001,45.78786
+1230792940,Male,72,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,the same,middle,no,10.740588,6-10 years,0,none,2,2 risk factors,pensioner,adequate,40.68021,49.93285
+1312898943,Female,72,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,very high to higher,low,yes,4.4052019,0-5 years,0,none,4,3 or more,pensioner,adequate,42.91288,41.4454
+772923899,Male,80,80 years above,Urban Area,QLD practice,married,no schooling/primary,the same,low,yes,10.332649,6-10 years,1,just 1,2,2 risk factors,pensioner,marginal,39.84649,51.76463
+1159527053,Male,74,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,the same,high,yes,4.9883642,0-5 years,0,none,3,3 or more,retired,marginal,40.37511000000001,53.3767
+-1042916090,Male,68,38 to 69 years,Rural Australia,QLD practice,married,no schooling/primary,very high to higher,middle,yes,2.3901436,0-5 years,0,none,3,3 or more,pensioner,adequate,52.79377,53.57482
+1609080793,Female,74,70 to 79 years,Rural Australia,SA practice,unmarried,no schooling/primary,lower to very low,low,yes,5.3689256,0-5 years,2,2 or more,3,3 or more,pensioner,adequate,25.12032,35.58045
+-1438909555,Female,74,70 to 79 years,Urban Area,QLD practice,married,no schooling/primary,very high to higher,middle,no,7.0006843,6-10 years,0,none,0,0-1 risk factors,pensioner,marginal,53.08216,54.97103
+1442045815,Male,80,80 years above,Urban Area,SA practice,married,no schooling/primary,the same,highest,no,28.117727,>10 years,0,none,2,2 risk factors,pensioner,marginal,53.96816000000001,49.15239
+768987737,Male,66,38 to 69 years,Urban Area,QLD practice,married,no schooling/primary,lower to very low,high,yes,4.881588,0-5 years,0,none,4,3 or more,pensioner,adequate,40.44030000000001,47.54755
+132075718,Female,80,80 years above,Urban Area,SA practice,married,no schooling/primary,the same,high,no,9.7056808,6-10 years,0,none,3,3 or more,pensioner,marginal,42.37437,31.21588
