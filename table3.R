@@ -68,7 +68,7 @@ table3 <- data.frame()
 #性別：t検定
 table3 <- add_variable(table3, "Gender", "Gender", c("Male", "Female"), c("Male", "Female"), t.test(dat$pcs ~ dat$Gender)$p.value, t.test(dat$mcs ~ dat$Gender)$p.value)
 
-#年齢：傾向検定
+#年齢：ANOVA傾向検定
 table3 <- add_variable(table3, "agegroup3", "Age group", c("38 to 69 years", "70 to 79 years", "80 years above"), c("<70 years", "70 to 79 years", ">=80 years"), summary(lm(dat$pcs ~ as.numeric(dat$agegroup3)))$coefficients[2, 4], summary(lm(dat$mcs ~ as.numeric(dat$agegroup3)))$coefficients[2, 4])
 
 #結婚しているかどうか：t検定
@@ -80,28 +80,28 @@ table3 <- add_variable(table3, "RA06ur", "Residence area", c("Urban Area", "Rura
 #診療所がある場所：t検定
 table3 <- add_variable(table3, "Stateno", "State of general practice", c("SA practice", "QLD practice"), c("South Australia", "Queensland"), t.test(dat$pcs ~ dat$Stateno)$p.value, t.test(dat$mcs ~ dat$Stateno)$p.value)
 
-#学歴：傾向検定
+#学歴：ANOVA傾向検定
 table3 <- add_variable(table3, "educatn4g", "Attained educational level", c("post grad/bachelor", "advdipl/dipl/certif/trade", "seniorsec/secondary", "no schooling/primary"), c("Degree or higher", "Certificate to advanced diploma", "Secondary", "No schooling to primary"), summary(lm(dat$pcs ~ as.numeric(dat$educatn4g)))$coefficients[2, 4], summary(lm(dat$mcs ~ as.numeric(dat$educatn4g)))$coefficients[2, 4])
 
-#働いているかどうか：ANOVA検定
+#働いているかどうか：ANOVA異質性検定
 table3 <- add_variable(table3, "workst3g", "Working status", c("employed", "retired", "pensioner"), c("Employed full or part time", "Retired", "Pensioner"), summary(aov(dat$pcs ~ dat$workst3g))[[1]][["Pr(>F)"]][1], summary(aov(dat$mcs ~ dat$workst3g))[[1]][["Pr(>F)"]][1])
 
-#経済状況：傾向検定
+#経済状況：ANOVA傾向検定
 table3 <- add_variable(table3, "econ3g", "Perceived economic situation", c("very high to higher", "the same", "lower to very low"), c("Very high to higher", "Similar to other people", "Lower to very low"), summary(lm(dat$pcs ~ as.numeric(dat$econ3g)))$coefficients[2, 4], summary(lm(dat$mcs ~ as.numeric(dat$econ3g)))$coefficients[2, 4])
 
-#地域の経済状況：傾向検定
+#地域の経済状況：ANOVA傾向検定
 table3 <- add_variable(table3, "irsd_quint", "Economic position (quintiles)", c("highest", "high", "middle", "low"), c("Highest", "High", "Middle", "Low"), summary(lm(dat$pcs ~ as.numeric(dat$irsd_quint)))$coefficients[2, 4], summary(lm(dat$mcs ~ as.numeric(dat$irsd_quint)))$coefficients[2, 4])
 
 #手術歴：t検定
 table3 <- add_variable(table3, "ischprocedure", "History of revascularization procedure", c("no", "yes"), c("No", "Yes"), t.test(dat$pcs ~ dat$ischprocedure)$p.value, t.test(dat$mcs ~ dat$ischprocedure)$p.value)
 
-#病気になってからの年数：傾向検定
+#病気になってからの年数：ANOVA傾向検定
 table3 <- add_variable(table3, "yearsIHD3g", "Time since first ischaemic episode", c("0-5 years", "6-10 years", ">10 years"), c("Up to 5 years", "6-10 years", "10+ years"), summary(lm(dat$pcs ~ as.numeric(dat$yearsIHD3g)))$coefficients[2, 4], summary(lm(dat$mcs ~ as.numeric(dat$yearsIHD3g)))$coefficients[2, 4])
 
-#他の心血管疾患の数：傾向検定
+#他の心血管疾患の数：ANOVA傾向検定
 table3 <- add_variable(table3, "CVDcomorb3g", "Number of other CVD conditions", c("none", "just 1", "2 or more"), c("0", "1", "2+"), summary(lm(dat$pcs ~ as.numeric(dat$CVDcomorb3g)))$coefficients[2, 4], summary(lm(dat$mcs ~ as.numeric(dat$CVDcomorb3g)))$coefficients[2, 4])
 
-#リスク因子数：傾向検定
+#リスク因子数：ANOVA傾向検定
 table3 <- add_variable(table3, "CVDriskf3g", "Number of clinical CVD risk factors", c("0-1 risk factors", "2 risk factors", "3 or more"), c("0-1", "2", "3+"), summary(lm(dat$pcs ~ as.numeric(dat$CVDriskf3g)))$coefficients[2, 4], summary(lm(dat$mcs ~ as.numeric(dat$CVDriskf3g)))$coefficients[2, 4])
 
 #table3を表示・CSVファイルで保存

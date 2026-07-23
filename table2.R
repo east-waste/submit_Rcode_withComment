@@ -67,9 +67,9 @@ table2 <- data.frame()
 tab <- table(dat$Gender, dat$inadequate)
 table2 <- add_variable(table2, "Gender", "Gender", c("Male", "Female"), c("Male", "Female"), chisq.test(tab)$p.value)
 
-#年齢：傾向検定（prop.ternd.test）
+#年齢：カイ二乗検定
 tab <- table(dat$agegroup3, dat$inadequate)
-table2 <- add_variable(table2, "agegroup3", "Age group", c("38 to 69 years", "70 to 79 years", "80 years above"), c("<70 years", "70 to 79 years", ">=80 years"), prop.trend.test(tab[, "1"], rowSums(tab))$p.value)
+table2 <- add_variable(table2, "agegroup3", "Age group", c("38 to 69 years", "70 to 79 years", "80 years above"), c("<70 years", "70 to 79 years", ">=80 years"), chisq.test(tab)$p.value)
 
 #結婚しているかどうか：カイ二乗検定
 tab <- table(dat$ms2g, dat$inadequate)
@@ -83,7 +83,7 @@ table2 <- add_variable(table2, "RA06ur", "Residence area", c("Urban Area", "Rura
 tab <- table(dat$Stateno, dat$inadequate)
 table2 <- add_variable(table2, "Stateno", "State of general practice", c("SA practice", "QLD practice"), c("South Australia", "Queensland"), chisq.test(tab)$p.value)
 
-#学歴：傾向検定
+#学歴：カイ二乗検定（傾向検定（prop.trend.test））
 tab <- table(dat$educatn4g, dat$inadequate)
 table2 <- add_variable(table2, "educatn4g", "Attained educational level", c("post grad/bachelor", "advdipl/dipl/certif/trade", "seniorsec/secondary", "no schooling/primary"), c("Degree or higher", "Certificate to advanced diploma", "Secondary", "No schooling to primary"), prop.trend.test(tab[, "1"], rowSums(tab))$p.value)
 
@@ -91,11 +91,11 @@ table2 <- add_variable(table2, "educatn4g", "Attained educational level", c("pos
 tab <- table(dat$workst3g, dat$inadequate)
 table2 <- add_variable(table2, "workst3g", "Working status", c("employed", "retired", "pensioner"), c("Employed full or part time", "Retired", "Pensioner"), chisq.test(tab)$p.value)
 
-#経済状況：傾向検定
+#経済状況：カイ二乗検定（傾向検定）
 tab <- table(dat$econ3g, dat$inadequate)
 table2 <- add_variable(table2, "econ3g", "Perceived economic situation", c("very high to higher", "the same", "lower to very low"), c("Very high to higher", "Similar to other people", "Lower to very low"), prop.trend.test(tab[, "1"], rowSums(tab))$p.value)
 
-#地域の経済状況：傾向検定
+#地域の経済状況：カイ二乗検定（傾向検定）
 tab <- table(dat$irsd_quint, dat$inadequate)
 table2 <- add_variable(table2, "irsd_quint", "Economic position (quintiles)", c("highest", "high", "middle", "low"), c("Highest", "High", "Middle", "Low"), prop.trend.test(tab[, "1"], rowSums(tab))$p.value)
 
@@ -103,15 +103,15 @@ table2 <- add_variable(table2, "irsd_quint", "Economic position (quintiles)", c(
 tab <- table(dat$ischprocedure, dat$inadequate)
 table2 <- add_variable(table2, "ischprocedure", "History of revascularization procedure", c("no", "yes"), c("No", "Yes"), chisq.test(tab)$p.value)
 
-#病気になってからの年数：傾向検定
+#病気になってからの年数：カイ二乗検定（傾向検定）
 tab <- table(dat$yearsIHD3g, dat$inadequate)
 table2 <- add_variable(table2, "yearsIHD3g", "Time since first ischaemic episode", c("0-5 years", "6-10 years", ">10 years"), c("Up to 5 years", "6-10 years", "10+ years"), prop.trend.test(tab[, "1"], rowSums(tab))$p.value)
 
-#他の心血管疾患の数：傾向検定
+#他の心血管疾患の数：カイ二乗検定（傾向検定）
 tab <- table(dat$CVDcomorb3g, dat$inadequate)
 table2 <- add_variable(table2, "CVDcomorb3g", "Number of other CVD conditions", c("none", "just 1", "2 or more"), c("0", "1", "2+"), prop.trend.test(tab[, "1"], rowSums(tab))$p.value)
 
-#リスク因子数：傾向検定
+#リスク因子数：カイ二乗検定（傾向検定）
 tab <- table(dat$CVDriskf3g, dat$inadequate)
 table2 <- add_variable(table2, "CVDriskf3g", "Number of clinical CVD risk factors", c("0-1 risk factors", "2 risk factors", "3 or more"), c("0-1", "2", "3+"), prop.trend.test(tab[, "1"], rowSums(tab))$p.value)
 
